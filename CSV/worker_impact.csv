@@ -1,0 +1,1061 @@
+,industry,naics2017,techuse,tech_usage,impactwf_u,tech_usage_worker_impact,number_of_firms,number_of_employees,annual_payroll
+55,Total for all sectors,00,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,21214,4583984,257405996
+56,Total for all sectors,00,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,8884,770426,59057430
+57,Total for all sectors,00,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,111632,6516672,531294999
+58,Total for all sectors,00,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,57988,6774277,440133898
+59,Total for all sectors,00,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,2587,106834,10916196
+60,Total for all sectors,00,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,81154,4989971,396708331
+61,Total for all sectors,00,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,44200,6913448,454076169
+62,Total for all sectors,00,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,1550,57796,6874179
+63,Total for all sectors,00,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,56409,4138041,339064756
+64,Total for all sectors,00,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,39569,761797,47743321
+65,Total for all sectors,00,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,141731,11871082,847758425
+66,Total for all sectors,00,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,194437,12405266,661239184
+67,Total for all sectors,00,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,57268,2331950,142318195
+68,Total for all sectors,00,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,1299014,35732012,2108123630
+69,Total for all sectors,00,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,438037,18509837,1114021723
+70,Total for all sectors,00,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,12594,252698,15193775
+71,Total for all sectors,00,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,1100084,31706694,1782465512
+72,Total for all sectors,00,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,245144,13573716,875759460
+73,Total for all sectors,00,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,7079,164792,12144463
+74,Total for all sectors,00,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,655911,23841933,1467127826
+75,Total for all sectors,00,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,642582,12888787,556649261
+76,Total for all sectors,00,00,All firms,T2E08D99,Cloud-Based: Total Reporting,1550716,50469228,2911681010
+77,Total for all sectors,00,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,173453,9382059,565255699
+78,Total for all sectors,00,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,58702,4681155,216568462
+79,Total for all sectors,00,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,1589213,38244729,2189584120
+80,Total for all sectors,00,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,458793,18143891,1083300005
+81,Total for all sectors,00,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,15000,564097,34815838
+82,Total for all sectors,00,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,1347574,33599954,1853292439
+83,Total for all sectors,00,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,259577,13334929,862198456
+84,Total for all sectors,00,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,8459,219454,15479008
+85,Total for all sectors,00,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,784965,25734938,1535937523
+86,Total for all sectors,00,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,768367,13018621,557793294
+87,Total for all sectors,00,00,All firms,T3E11D99,Specialized Software: Total Reporting,1821368,52307942,2971408281
+88,Total for all sectors,00,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,8827,2078827,138845417
+89,Total for all sectors,00,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,7208,4176856,219555327
+90,Total for all sectors,00,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,72624,8485638,647861870
+91,Total for all sectors,00,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,20954,6484690,404000277
+92,Total for all sectors,00,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,2051,116840,12099389
+93,Total for all sectors,00,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,65654,8139790,590162949
+94,Total for all sectors,00,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,17980,6061799,377678274
+95,Total for all sectors,00,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,1434,82896,8708365
+96,Total for all sectors,00,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,48253,7788466,564326021
+97,Total for all sectors,00,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,20990,808161,55549956
+98,Total for all sectors,00,00,All firms,T4E14D99,Robotics: Total Reporting,88657,14741320,1006262615
+99,Total for all sectors,00,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,86090,5150698,287376458
+100,Total for all sectors,00,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,28311,3790361,161193659
+101,Total for all sectors,00,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,741258,21165039,1309133713
+102,Total for all sectors,00,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,220018,10776953,596665929
+103,Total for all sectors,00,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,11403,329837,18660004
+104,Total for all sectors,00,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,624236,18999308,1142377898
+105,Total for all sectors,00,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,132667,8909881,506360311
+106,Total for all sectors,00,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,5258,123212,10712720
+107,Total for all sectors,00,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,413852,16015826,1025931438
+108,Total for all sectors,00,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,303879,5057179,214699362
+109,Total for all sectors,00,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,855657,30106098,1757703831
+741,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,44,2617,101271
+742,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,216,6987,317471
+743,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,9,1514,143353
+744,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,0,0,0
+745,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,309,9912,383612
+746,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,12,2006,173290
+747,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,0,0,0
+749,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,152,5086,153319
+750,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,317,11427,526965
+751,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,307,4794,243520
+753,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,2766,64632,2630656
+754,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,740,15831,736286
+756,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,2410,58962,2366584
+757,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,355,8617,500996
+759,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,1243,38989,1512647
+760,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,1553,27186,1089228
+761,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T2E08D99,Cloud-Based: Total Reporting,3205,74848,3103260
+762,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,287,11450,484490
+763,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,97,3207,137048
+764,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,3875,85395,3227946
+765,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,950,19666,933939
+767,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,3307,79557,2849963
+768,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,522,13464,786052
+769,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,0,0,0
+770,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,1710,42662,1681591
+771,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,2028,43927,1381841
+772,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T3E11D99,Specialized Software: Total Reporting,4260,100053,3849484
+773,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,0,0,0
+774,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,98,10446,403421
+775,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,182,9009,469559
+776,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,10,5621,199286
+777,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,0,0,0
+778,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,272,13833,673694
+779,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,10,3326,193177
+780,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,0,0,0
+781,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,176,10967,470282
+783,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T4E14D99,Robotics: Total Reporting,282,19455,872980
+784,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,292,6874,429567
+785,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,331,6018,257080
+786,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,3697,56386,2014445
+787,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,1051,25587,736154
+789,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,3154,43116,1952004
+790,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,593,12989,216547
+792,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,1863,31986,1499854
+793,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,1806,23840,976114
+794,Agriculture/Forestry/Fishing/Hunting,11,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,4320,69279,2701092
+981,Construction,23,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,5478,247155,18907515
+982,Construction,23,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,1586,63983,4933383
+984,Construction,23,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,3920,234620,19046060
+985,Construction,23,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,1773,38724,2270224
+986,Construction,23,00,All firms,T4E14D99,Robotics: Total Reporting,7415,338976,26365768
+987,Construction,23,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,13601,322797,20588576
+988,Construction,23,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,3668,56607,3986201
+989,Construction,23,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,88397,1430661,95307547
+990,Construction,23,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,31250,551125,36161809
+991,Construction,23,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,1350,17075,946093
+992,Construction,23,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,73064,1241865,82774422
+993,Construction,23,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,16644,324646,22124150
+994,Construction,23,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,762,7316,346443
+995,Construction,23,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,52122,1063038,73473881
+996,Construction,23,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,36138,415065,23937850
+997,Construction,23,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,105664,1810066,119882324
+998,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,61,3185,285743
+999,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,16,6088,1208296
+1000,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,211,70888,7691007
+1001,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,140,25713,3030957
+1003,Utilities,22,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,13,10735,1061598
+1005,Utilities,22,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,28,122568,14660565
+1006,Utilities,22,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,5,3933,359852
+1007,Utilities,22,00,All firms,T4E14D99,Robotics: Total Reporting,48,137761,16140952
+1008,Utilities,22,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,45,2577,257509
+1009,Utilities,22,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,16,23869,2637110
+1010,Utilities,22,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,684,187296,19672960
+1011,Utilities,22,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,129,30921,3244586
+1013,Utilities,22,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,613,182295,19264055
+1014,Utilities,22,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,102,19064,2011166
+1016,Utilities,22,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,447,182036,20197989
+1017,Utilities,22,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,195,12117,299487
+1018,Utilities,22,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,745,213742,22567578
+1021,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,147,54079,6107935
+1022,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,148,29298,3991244
+1024,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,115,50361,5140963
+1025,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,23,134,6684
+1026,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,290,80161,9185046
+1027,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,264,59162,5026624
+1028,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,170,9328,1303084
+1029,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,2644,191187,19880137
+1030,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,678,108153,10617181
+1032,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,2341,151341,15589222
+1033,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,501,77508,7283469
+1035,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,1832,164986,17319770
+1036,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,687,17001,1603163
+1037,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T2E08D99,Cloud-Based: Total Reporting,3075,259676,26209846
+1057,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,137,28884,2387209
+1058,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,175,30628,2799766
+1059,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,3862,213433,22002280
+1060,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,1006,70133,7891032
+1062,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,3110,202584,19290033
+1063,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,614,55080,5847306
+1065,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,2390,151449,15823359
+1066,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,1116,66222,5512619
+1067,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T3E11D99,Specialized Software: Total Reporting,4176,272946,27189254
+1068,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,10,1848,145876
+1069,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,13,6096,984863
+1070,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,256,59580,6586988
+1071,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,33,14812,1706689
+1072,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,0,0,0
+1073,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,246,52712,6011038
+1106,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,28,12525,1529859
+1107,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,0,0,0
+1108,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,189,51472,5848685
+1109,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,62,3526,339183
+1110,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T4E14D99,Robotics: Total Reporting,280,67524,7717727
+1111,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,119,18872,1543902
+1112,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,94,13364,978340
+1113,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,2399,138903,15501553
+1114,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,515,56609,5242504
+1115,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,8,338,21024
+1116,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,2090,114192,12760268
+1117,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,401,46397,4449793
+1118,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,3,71,3966
+1119,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,1693,115691,12662221
+1121,Mining/Quarrying/Oil&Gas Extraction,21,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,2612,171139,18023795
+1329,Utilities,22,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,9,205,19560
+1331,Utilities,22,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,64,114573,11770158
+1332,Utilities,22,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,23,22185,2395749
+1333,Utilities,22,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,0,0,0
+1334,Utilities,22,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,54,92696,9418229
+1335,Utilities,22,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,19,22256,2418293
+1336,Utilities,22,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,0,0,0
+1337,Utilities,22,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,46,92497,9388186
+1339,Utilities,22,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,77,114880,11813978
+1340,Utilities,22,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,70,28736,3164123
+1341,Utilities,22,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,31,3904,456955
+1342,Utilities,22,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,837,292813,33228471
+1343,Utilities,22,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,233,106089,10369661
+1344,Utilities,22,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,8,110,5680
+1345,Utilities,22,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,697,219253,26474207
+1346,Utilities,22,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,118,49431,5440809
+1347,Utilities,22,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,6,92,5867
+1348,Utilities,22,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,599,249405,29603930
+1349,Utilities,22,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,216,26525,1798942
+1350,Construction,23,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,2173,44872,2608215
+1351,Utilities,22,00,All firms,T2E08D99,Cloud-Based: Total Reporting,938,325452,36849548
+1352,Utilities,22,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,50,2553,278674
+1353,Utilities,22,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,25,7890,843619
+1354,Utilities,22,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,1058,289651,31834591
+1355,Utilities,22,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,252,97306,10698990
+1356,Utilities,22,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,5,175,16362
+1357,Utilities,22,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,876,202612,22241531
+1358,Utilities,22,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,134,62629,7981649
+1359,Utilities,22,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,5,83,5095
+1360,Utilities,22,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,709,221928,24334605
+1361,Utilities,22,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,283,15453,635536
+1362,Utilities,22,00,All firms,T3E11D99,Specialized Software: Total Reporting,1133,300094,32956883
+1364,Utilities,22,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,10,865,103669
+1365,Utilities,22,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,35,135582,15915436
+1366,Utilities,22,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,14,1651,165297
+1368,Utilities,22,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,32,135584,15916719
+1370,Construction,23,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,7528,169031,13108276
+1371,Construction,23,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,4655,98838,6937635
+1373,Construction,23,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,5637,120120,9017366
+1374,Construction,23,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,3394,85950,5822820
+1375,Construction,23,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,0,0,0
+1376,Construction,23,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,4256,111444,8936478
+1377,Construction,23,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,2692,23361,1334578
+1378,Construction,23,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,10344,220755,16093876
+1379,Construction,23,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,21190,513050,34726350
+1380,Construction,23,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,5359,108733,7797989
+1381,Construction,23,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,112814,1960573,131944632
+1382,Construction,23,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,37666,854585,59953928
+1383,Construction,23,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,1570,23083,1126417
+1384,Construction,23,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,100127,1704689,113388626
+1385,Construction,23,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,21368,532506,37314042
+1386,Construction,23,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,896,15644,1056852
+1387,Construction,23,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,62899,1275683,88982377
+1388,Construction,23,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,54201,758523,47115700
+1389,Construction,23,00,All firms,T2E08D99,Cloud-Based: Total Reporting,139363,2582356,174468971
+1390,Construction,23,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,18489,502825,34791576
+1391,Construction,23,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,4520,84502,5524978
+1392,Construction,23,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,131190,2105477,141055023
+1393,Construction,23,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,36729,829800,57066010
+1394,Construction,23,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,1221,16442,837683
+1395,Construction,23,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,116250,1846563,123467885
+1396,Construction,23,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,22411,535472,37691381
+1397,Construction,23,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,629,13833,946620
+1398,Construction,23,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,72177,1408431,97344520
+1399,Construction,23,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,58982,735069,45389057
+1400,Construction,23,00,All firms,T3E11D99,Specialized Software: Total Reporting,154199,2692804,181371578
+1401,Construction,23,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,795,26152,1757180
+1402,Construction,23,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,572,40564,3100958
+1403,Construction,23,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,6047,272261,21507630
+1404,Construction,23,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,1771,89647,7311675
+1489,Wholesale trade,42,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,778,96416,9371970
+1490,Wholesale trade,42,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,500,38003,3409821
+1491,Wholesale trade,42,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,4495,379388,44384415
+1492,Wholesale trade,42,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,2427,266631,25911800
+1493,Wholesale trade,42,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,151,8654,780318
+1494,Wholesale trade,42,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,3195,238522,30474087
+1495,Wholesale trade,42,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,1980,282038,29445597
+1496,Wholesale trade,42,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,49,2071,340413
+1497,Wholesale trade,42,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,2219,199740,24791183
+1498,Wholesale trade,42,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,1524,29959,2589012
+1499,Wholesale trade,42,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,5775,513807,57166205
+1500,Wholesale trade,42,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,11710,532982,41922531
+1501,Wholesale trade,42,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,3094,135826,9488407
+1502,Wholesale trade,42,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,65087,1871267,149739129
+1503,Wholesale trade,42,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,22894,915529,72789942
+1504,Wholesale trade,42,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,468,8624,809873
+1505,Wholesale trade,42,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,56527,1615921,127550253
+1506,Wholesale trade,42,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,12938,686703,57777816
+1507,Wholesale trade,42,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,229,4052,450853
+1508,Wholesale trade,42,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,36167,1316429,109439502
+1509,Wholesale trade,42,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,30558,532889,33481896
+1510,Wholesale trade,42,00,All firms,T2E08D99,Cloud-Based: Total Reporting,79889,2540074,201150068
+1511,Wholesale trade,42,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,9292,526425,43138582
+1512,Wholesale trade,42,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,3575,115053,9131459
+1513,Wholesale trade,42,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,70612,2012728,155893807
+1514,Wholesale trade,42,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,22075,922184,74234691
+1515,Wholesale trade,42,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,972,26854,1967597
+1516,Wholesale trade,42,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,60431,1705168,131961559
+1517,Wholesale trade,42,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,11544,662419,56448632
+1518,Wholesale trade,42,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,588,8681,775002
+1519,Wholesale trade,42,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,39503,1433816,117071532
+1520,Wholesale trade,42,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,31845,549289,33868682
+1521,Wholesale trade,42,00,All firms,T3E11D99,Specialized Software: Total Reporting,83477,2654205,208163848
+1522,Wholesale trade,42,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,696,90386,8064170
+1523,Wholesale trade,42,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,744,217431,17021473
+1524,Wholesale trade,42,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,5744,504066,57291005
+1525,Wholesale trade,42,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,1820,290914,26950554
+1526,Wholesale trade,42,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,134,15597,1331460
+1527,Wholesale trade,42,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,5231,505372,54094633
+1528,Wholesale trade,42,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,1597,283455,26051782
+1529,Wholesale trade,42,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,67,6584,614559
+1530,Wholesale trade,42,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,4291,461539,50758378
+1531,Wholesale trade,42,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,1228,60306,4951929
+1532,Wholesale trade,42,00,All firms,T4E14D99,Robotics: Total Reporting,7184,811883,82376648
+1533,Wholesale trade,42,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,4755,328140,25679823
+1534,Wholesale trade,42,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,2018,102477,7894386
+1535,Wholesale trade,42,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,33743,1367382,117033906
+1536,Wholesale trade,42,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,10941,562459,45927484
+1537,Wholesale trade,42,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,401,15270,1493383
+1538,Wholesale trade,42,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,29179,1220270,103187247
+1539,Wholesale trade,42,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,7088,490726,42181435
+1540,Wholesale trade,42,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,177,4326,466170
+1541,Wholesale trade,42,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,21013,999568,88437652
+1542,Wholesale trade,42,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,12238,303379,19522858
+1543,Wholesale trade,42,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,40518,1797999,150608115
+1565,Manufacturing,31-33,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,816,470847,32648551
+1566,Manufacturing,31-33,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,641,160909,11921675
+1567,Manufacturing,31-33,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,5050,1157778,87501125
+1568,Manufacturing,31-33,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,2682,886581,60112069
+1569,Manufacturing,31-33,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,155,14881,1316987
+1570,Manufacturing,31-33,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,3670,888073,70642295
+1571,Manufacturing,31-33,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,2316,928418,63461652
+1572,Manufacturing,31-33,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,134,6582,551385
+1573,Manufacturing,31-33,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,2752,807878,65728945
+1574,Manufacturing,31-33,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,1304,46656,2329368
+1594,Manufacturing,31-33,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,6507,1789535,132071351
+1595,Manufacturing,31-33,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,8988,977571,59563322
+1596,Manufacturing,31-33,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,2756,265133,16462411
+1597,Manufacturing,31-33,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,51783,4275347,275379723
+1598,Manufacturing,31-33,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,17273,1905695,118010313
+1599,Manufacturing,31-33,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,756,24492,1193931
+1600,Manufacturing,31-33,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,45495,3587864,232201212
+1601,Manufacturing,31-33,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,11888,1687037,105756406
+1602,Manufacturing,31-33,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,344,9521,513733
+1603,Manufacturing,31-33,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,32477,3144561,211732713
+1604,Manufacturing,31-33,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,18816,676932,33402603
+1605,Manufacturing,31-33,00,All firms,T2E08D99,Cloud-Based: Total Reporting,63526,5518051,351405456
+1606,Manufacturing,31-33,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,10499,1169884,75141957
+1607,Manufacturing,31-33,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,3922,398307,24567795
+1608,Manufacturing,31-33,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,75645,4855468,300119364
+1609,Manufacturing,31-33,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,26391,2404441,148363546
+1610,Manufacturing,31-33,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,1144,142954,10126797
+1611,Manufacturing,31-33,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,62530,3876263,241338773
+1632,Manufacturing,31-33,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,18215,2163862,139896288
+1633,Manufacturing,31-33,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,431,14240,623282
+1634,Manufacturing,31-33,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,48388,3639769,231554545
+1635,Manufacturing,31-33,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,23036,605788,27755001
+1636,Manufacturing,31-33,00,All firms,T3E11D99,Specialized Software: Total Reporting,90066,6423659,399829116
+1637,Manufacturing,31-33,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,2450,479175,30638435
+1638,Manufacturing,31-33,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,2852,956369,56129145
+1639,Manufacturing,31-33,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,15720,2499653,168996935
+1640,Manufacturing,31-33,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,5984,1480559,94365625
+1641,Manufacturing,31-33,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,561,39007,2039553
+1642,Manufacturing,31-33,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,14476,2415630,159359337
+1643,Manufacturing,31-33,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,5122,1365656,86759233
+1644,Manufacturing,31-33,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,425,28167,1326170
+1645,Manufacturing,31-33,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,12473,2367552,158965166
+1646,Manufacturing,31-33,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,3001,173823,8713946
+1647,Manufacturing,31-33,00,All firms,T4E14D99,Robotics: Total Reporting,21022,3935197,255764515
+1648,Manufacturing,31-33,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,11834,1115142,65991879
+1649,Manufacturing,31-33,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,4996,679909,37210520
+1665,Manufacturing,31-33,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,69007,4347592,277909827
+1666,Manufacturing,31-33,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,24815,2119122,132965876
+1668,Manufacturing,31-33,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,59544,3968373,245190445
+1669,Manufacturing,31-33,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,16876,1806623,116301174
+1671,Manufacturing,31-33,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,47774,3754814,238492909
+1672,Manufacturing,31-33,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,20519,556155,24843412
+1673,Manufacturing,31-33,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,85836,6142643,381112225
+1850,Retail trade,44-45,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,1805,2453149,67920013
+1851,Retail trade,44-45,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,1032,118045,2444355
+1852,Retail trade,44-45,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,10462,593549,15760080
+1853,Retail trade,44-45,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,5227,2600590,70997488
+1854,Retail trade,44-45,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,410,2272,48119
+1855,Retail trade,44-45,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,7665,561880,15078841
+1856,Retail trade,44-45,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,2960,2731766,72430301
+1858,Retail trade,44-45,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,6044,328412,10380589
+1859,Retail trade,44-45,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,3995,103597,3292845
+1860,Retail trade,44-45,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,13302,3164742,86124449
+1861,Retail trade,44-45,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,15686,3632037,99360292
+1862,Retail trade,44-45,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,5998,196296,6067358
+1863,Retail trade,44-45,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,111151,4370019,125966014
+1864,Retail trade,44-45,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,33840,4097452,112408220
+1865,Retail trade,44-45,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,1758,15654,522421
+1866,Retail trade,44-45,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,97233,4085246,118463023
+1867,Retail trade,44-45,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,18191,3353933,91660935
+1869,Retail trade,44-45,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,52593,2689221,75379948
+1870,Retail trade,44-45,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,61060,2144389,63926188
+1871,Retail trade,44-45,00,All firms,T2E08D99,Cloud-Based: Total Reporting,132832,8198352,231393664
+1872,Retail trade,44-45,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,14751,1233138,32615623
+1873,Retail trade,44-45,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,6721,2166886,60961961
+1874,Retail trade,44-45,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,149998,4392037,127687402
+1875,Retail trade,44-45,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,39248,3644107,101187142
+1876,Retail trade,44-45,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,1779,24118,671934
+1877,Retail trade,44-45,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,130445,4123836,119405910
+1878,Retail trade,44-45,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,19629,3098682,85626857
+1880,Retail trade,44-45,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,71739,2961445,83719449
+1881,Retail trade,44-45,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,78819,1708569,50803113
+1882,Retail trade,44-45,00,All firms,T3E11D99,Specialized Software: Total Reporting,171470,7792061,221264986
+1883,Retail trade,44-45,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,908,451596,11107621
+1884,Retail trade,44-45,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,1135,2009490,57307537
+1885,Retail trade,44-45,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,8621,883820,23827745
+1886,Retail trade,44-45,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,2323,2391531,66051163
+1887,Retail trade,44-45,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,539,3960,93603
+1888,Retail trade,44-45,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,7804,949415,26098137
+1889,Retail trade,44-45,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,1466,2377564,65576717
+1891,Retail trade,44-45,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,5685,831413,22270539
+1892,Retail trade,44-45,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,3207,133143,4324105
+1893,Retail trade,44-45,00,All firms,T4E14D99,Robotics: Total Reporting,10666,3344906,92242903
+1894,Retail trade,44-45,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,7259,1280684,31350899
+1895,Retail trade,44-45,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,2653,2122612,58847941
+1896,Retail trade,44-45,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,73214,2039435,64398604
+1897,Retail trade,44-45,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,20642,3342104,91551185
+1898,Retail trade,44-45,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,1631,72189,1578491
+1899,Retail trade,44-45,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,60852,2028438,61467769
+1900,Retail trade,44-45,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,10979,3186654,86184192
+1902,Retail trade,44-45,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,37774,1657769,48711909
+1903,Retail trade,44-45,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,33730,587399,19282707
+1904,Transportation and warehousing,48-49,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,643,372006,22779999
+1905,Transportation and warehousing,48-49,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,349,13803,696610
+1906,Transportation and warehousing,48-49,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,2835,645281,35023744
+1907,Transportation and warehousing,48-49,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,1386,564272,37257937
+1908,Transportation and warehousing,48-49,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,73,2478,152382
+1909,Transportation and warehousing,48-49,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,2368,464340,21090034
+1910,Transportation and warehousing,48-49,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,1050,557833,37133874
+1912,Transportation and warehousing,48-49,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,1429,452563,20625242
+1913,Transportation and warehousing,48-49,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,1340,20695,741238
+1914,Transportation and warehousing,48-49,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,3827,1031091,58500354
+1915,Transportation and warehousing,48-49,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,5315,689246,42273710
+1916,Transportation and warehousing,48-49,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,1552,99150,5899640
+1917,Retail trade,44-45,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,83124,5442732,154597445
+1936,Transportation and warehousing,48-49,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,30350,1793340,95419813
+1937,Transportation and warehousing,48-49,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,9463,1030893,66274474
+1938,Transportation and warehousing,48-49,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,230,9960,590810
+1939,Transportation and warehousing,48-49,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,27527,1540884,76727880
+1940,Transportation and warehousing,48-49,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,4601,878821,59920716
+1941,Transportation and warehousing,48-49,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,82,8186,579958
+1942,Transportation and warehousing,48-49,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,15323,1192769,58822942
+1943,Transportation and warehousing,48-49,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,17214,501960,24269548
+1944,Transportation and warehousing,48-49,00,All firms,T2E08D99,Cloud-Based: Total Reporting,37217,2581737,143593164
+1945,Transportation and warehousing,48-49,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,5035,409347,25917529
+1946,Transportation and warehousing,48-49,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,1702,263338,13611090
+1947,Transportation and warehousing,48-49,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,37221,1915696,99461792
+1948,Transportation and warehousing,48-49,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,10270,893887,55865989
+1949,Transportation and warehousing,48-49,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,377,12789,634719
+1950,Transportation and warehousing,48-49,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,33311,1681705,82489703
+1951,Transportation and warehousing,48-49,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,5351,747274,48880414
+1952,Transportation and warehousing,48-49,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,176,6196,296629
+1972,Transportation and warehousing,48-49,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,18044,1391830,69887897
+1973,Transportation and warehousing,48-49,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,20388,443080,19925471
+1974,Transportation and warehousing,48-49,00,All firms,T3E11D99,Specialized Software: Total Reporting,43958,2588381,138990411
+1975,Transportation and warehousing,48-49,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,108,206716,15914736
+1976,Transportation and warehousing,48-49,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,135,218889,11334171
+1977,Transportation and warehousing,48-49,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,1215,600700,33404464
+1978,Transportation and warehousing,48-49,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,316,538908,39046214
+1979,Transportation and warehousing,48-49,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,8,3369,255305
+1980,Transportation and warehousing,48-49,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,1136,484028,21351852
+1981,Transportation and warehousing,48-49,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,388,528250,38447851
+1982,Transportation and warehousing,48-49,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,5,1854,157203
+1983,Transportation and warehousing,48-49,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,741,480060,21326446
+1984,Transportation and warehousing,48-49,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,325,16142,721872
+1985,Transportation and warehousing,48-49,00,All firms,T4E14D99,Robotics: Total Reporting,1460,1026305,60653372
+1986,Transportation and warehousing,48-49,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,3232,266935,14335801
+1987,Transportation and warehousing,48-49,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,725,201963,9305508
+1988,Transportation and warehousing,48-49,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,18495,1359663,76268202
+2009,Transportation and warehousing,48-49,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,4947,640172,37694590
+2010,Transportation and warehousing,48-49,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,290,12862,652374
+2011,Transportation and warehousing,48-49,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,17215,1175527,61562546
+2012,Transportation and warehousing,48-49,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,2369,561128,34674093
+2013,Transportation and warehousing,48-49,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,51,3955,197787
+2014,Transportation and warehousing,48-49,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,10733,1090813,58124958
+2015,Transportation and warehousing,48-49,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,9297,172665,6912672
+2016,Transportation and warehousing,48-49,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,22451,1828561,99909511
+2383,Finance and insurance,52,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,1111,141011,15761174
+2384,Finance and insurance,52,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,747,33630,3136625
+2385,Finance and insurance,52,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,7058,652472,70441678
+2386,Finance and insurance,52,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,4208,507300,55831491
+2387,Finance and insurance,52,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,140,1423,105636
+2388,Finance and insurance,52,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,4568,318391,33402350
+2389,Finance and insurance,52,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,3194,505024,56380227
+2391,Finance and insurance,52,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,3408,254606,25521340
+2392,Finance and insurance,52,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,2313,66493,7346759
+2393,Finance and insurance,52,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,8914,827114,89339476
+2394,Finance and insurance,52,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,11195,507222,55285509
+2395,Finance and insurance,52,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,3138,144549,10548055
+2396,Finance and insurance,52,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,83409,2033338,198811191
+2397,Finance and insurance,52,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,32828,1065584,110336821
+2398,Finance and insurance,52,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,643,2422,129991
+2399,Finance and insurance,52,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,64274,1617102,154177942
+2400,Finance and insurance,52,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,16051,876629,101486205
+2401,Finance and insurance,52,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,395,1380,49619
+2402,Finance and insurance,52,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,41890,1253766,116984140
+2403,Finance and insurance,52,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,39409,553333,46124791
+2404,Finance and insurance,52,00,All firms,T2E08D99,Cloud-Based: Total Reporting,97742,2685108,264644754
+2405,Finance and insurance,52,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,9132,452138,45487418
+2406,Finance and insurance,52,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,2862,212330,17725348
+2407,Finance and insurance,52,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,97141,1990851,192182289
+2408,Finance and insurance,52,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,30992,942258,96112914
+2409,Finance and insurance,52,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,630,71217,5909858
+2410,Finance and insurance,52,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,77512,1641844,153372283
+2411,Finance and insurance,52,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,15160,783454,88311889
+2412,Finance and insurance,52,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,387,54692,4554550
+2413,Finance and insurance,52,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,45047,1314335,118512627
+2414,Finance and insurance,52,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,48542,502838,44015989
+2415,Finance and insurance,52,00,All firms,T3E11D99,Specialized Software: Total Reporting,109135,2655319,255395055
+2416,Finance and insurance,52,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,76,48104,4532620
+2417,Finance and insurance,52,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,83,163210,20240503
+2418,Finance and insurance,52,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,1525,438112,53133448
+2419,Finance and insurance,52,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,248,188525,26627256
+2420,Finance and insurance,52,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,45,725,92738
+2421,Finance and insurance,52,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,1392,460176,51186578
+2422,Finance and insurance,52,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,250,180284,26784431
+2424,Information,51,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,826,85501,18784050
+2425,Information,51,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,246,52276,5582306
+2426,Information,51,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,3060,578625,64975579
+2427,Information,51,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,1743,154721,25025268
+2428,Finance and insurance,52,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,865,374249,38135891
+2429,Finance and insurance,52,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,568,94685,12969133
+2430,Finance and insurance,52,00,All firms,T4E14D99,Robotics: Total Reporting,1684,649425,77906571
+2431,Finance and insurance,52,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,1352,76288,8835133
+2432,Finance and insurance,52,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,256,21954,1643154
+2433,Finance and insurance,52,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,11179,513746,52204134
+2434,Finance and insurance,52,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,3387,177636,20758516
+2435,Finance and insurance,52,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,92,2209,230940
+2436,Finance and insurance,52,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,9308,432142,41692964
+2437,Finance and insurance,52,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,2322,153546,19031567
+2439,Finance and insurance,52,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,6159,381959,36650081
+2440,Finance and insurance,52,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,4216,75383,6941754
+2441,Finance and insurance,52,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,12785,611987,62682421
+2446,Information,51,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,10,24001,2295449
+2447,Information,51,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,2379,537679,62021218
+2448,Information,51,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,1846,153534,26490795
+2449,Information,51,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,7,883,188118
+2450,Information,51,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,1676,543677,59494230
+2451,Information,51,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,604,18308,3168792
+2452,Information,51,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,4134,716401,89341935
+2453,Information,51,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,4927,248790,36088048
+2454,Information,51,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,1955,187782,19291114
+2455,Information,51,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,29275,1491867,145494125
+2456,Information,51,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,12105,716002,80981691
+2457,Information,51,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,169,9283,1255981
+2458,Information,51,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,23880,1203154,118635614
+2459,Information,51,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,8678,659973,78217061
+2460,Information,51,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,129,5825,864347
+2461,Information,51,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,15797,1082538,107739832
+2462,Information,51,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,11552,180102,14052046
+2463,Information,51,00,All firms,T2E08D99,Cloud-Based: Total Reporting,36157,1928439,200873287
+2482,Information,51,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,3542,457640,51376106
+2483,Information,51,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,1690,72646,6091540
+2484,Information,51,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,31527,1275890,129231029
+2485,Information,51,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,10604,642807,70090586
+2486,Information,51,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,250,4163,337291
+2487,Information,51,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,25902,1159205,116270798
+2488,Information,51,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,7259,574059,66830225
+2489,Information,51,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,128,2232,248353
+2490,Information,51,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,17436,1074951,106485366
+2491,Information,51,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,11934,154934,13134732
+2492,Information,51,00,All firms,T3E11D99,Specialized Software: Total Reporting,36758,1806176,186698675
+2493,Information,51,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,146,14527,2927200
+2494,Information,51,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,51,26972,2705113
+2495,Information,51,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,1404,257003,32522097
+2496,Information,51,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,346,35723,7919900
+2498,Information,51,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,1251,255128,28904274
+2499,Information,51,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,402,31210,4118494
+2520,Information,51,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,808,259429,33316151
+2521,Information,51,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,389,4452,304974
+2522,Information,51,00,All firms,T4E14D99,Robotics: Total Reporting,1601,298502,38154410
+2523,Information,51,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,1044,80082,11352942
+2524,Information,51,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,413,30297,2027891
+2525,Information,51,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,12577,985135,91161080
+2526,Information,51,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,3499,423016,39920861
+2527,Information,51,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,95,12316,712088
+2528,Information,51,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,10440,660182,63908964
+2529,Information,51,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,2364,194333,21095701
+2530,Information,51,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,78,7353,1350215
+2531,Information,51,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,7086,831358,78703902
+2532,Information,51,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,4503,62469,3392095
+2533,Information,51,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,14032,1095514,104541913
+2626,Professional/Scientific/Technical Services,54,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,5970,373698,43775305
+2627,Real estate and rental and leasing,53,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,789,15879,1300915
+2628,Real estate and rental and leasing,53,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,268,2704,457459
+2629,Real estate and rental and leasing,53,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,7554,52609,2457212
+2630,Real estate and rental and leasing,53,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,2501,25146,1886109
+2632,Real estate and rental and leasing,53,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,5984,45833,2320995
+2633,Real estate and rental and leasing,53,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,1843,23636,2034400
+2635,Real estate and rental and leasing,53,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,3206,27702,1529971
+2636,Real estate and rental and leasing,53,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,3477,19811,649432
+2637,Real estate and rental and leasing,53,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,8613,71192,4215585
+2638,Real estate and rental and leasing,53,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,9151,120938,7698887
+2639,Real estate and rental and leasing,53,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,3238,65346,2918791
+2640,Real estate and rental and leasing,53,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,84872,635695,34600357
+2641,Real estate and rental and leasing,53,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,25767,270534,14224152
+2642,Real estate and rental and leasing,53,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,585,5271,314011
+2643,Professional/Scientific/Technical Services,54,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,1388,144459,17522517
+2644,Professional/Scientific/Technical Services,54,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,30980,821572,93765510
+2645,Professional/Scientific/Technical Services,54,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,16672,685353,78382921
+2646,Professional/Scientific/Technical Services,54,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,156,24787,5256776
+2647,Professional/Scientific/Technical Services,54,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,21511,629589,71423634
+2648,Professional/Scientific/Technical Services,54,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,15021,702904,81277121
+2649,Professional/Scientific/Technical Services,54,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,88,23208,5056753
+2650,Professional/Scientific/Technical Services,54,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,14513,519621,57674779
+2651,Professional/Scientific/Technical Services,54,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,8717,93997,11054678
+2652,Professional/Scientific/Technical Services,54,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,38339,1339730,155063332
+2653,Professional/Scientific/Technical Services,54,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,40010,1110553,100331917
+2654,Professional/Scientific/Technical Services,54,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,10432,267867,27061199
+2655,Professional/Scientific/Technical Services,54,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,314350,3367774,300070870
+2656,Professional/Scientific/Technical Services,54,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,106885,1734097,164762640
+2657,Professional/Scientific/Technical Services,54,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,1057,27183,5216864
+2658,Professional/Scientific/Technical Services,54,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,256852,2984913,257484482
+2659,Real estate and rental and leasing,53,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,70907,546174,30679872
+2660,Real estate and rental and leasing,53,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,11753,111183,7303992
+2661,Real estate and rental and leasing,53,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,212,2302,85223
+2662,Real estate and rental and leasing,53,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,35507,363337,19671290
+2663,Real estate and rental and leasing,53,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,49788,345156,18157531
+2664,Real estate and rental and leasing,53,00,All firms,T2E08D99,Cloud-Based: Total Reporting,97261,821979,45218036
+2665,Real estate and rental and leasing,53,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,7158,117801,7538295
+2666,Real estate and rental and leasing,53,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,2799,55013,2296621
+2667,Real estate and rental and leasing,53,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,92341,670404,35374634
+2668,Real estate and rental and leasing,53,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,21156,236596,12796459
+2669,Real estate and rental and leasing,53,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,593,3981,252187
+2670,Real estate and rental and leasing,53,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,80552,602641,32160905
+2671,Real estate and rental and leasing,53,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,9003,106036,7059955
+2672,Real estate and rental and leasing,53,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,287,3086,149122
+2673,Real estate and rental and leasing,53,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,37535,376525,19375598
+2674,Real estate and rental and leasing,53,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,55476,357571,18624875
+2675,Real estate and rental and leasing,53,00,All firms,T3E11D99,Specialized Software: Total Reporting,102300,843218,45209551
+2676,Professional/Scientific/Technical Services,54,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,72600,1411719,141469219
+2677,Professional/Scientific/Technical Services,54,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,771,27081,5250696
+2678,Professional/Scientific/Technical Services,54,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,160020,2403882,212497216
+2679,Professional/Scientific/Technical Services,54,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,131401,903512,68246855
+2680,Professional/Scientific/Technical Services,54,00,All firms,T2E08D99,Cloud-Based: Total Reporting,364794,4746194,427463986
+2681,Professional/Scientific/Technical Services,54,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,34694,1100153,101319194
+2682,Professional/Scientific/Technical Services,54,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,9754,229479,23206326
+2683,Professional/Scientific/Technical Services,54,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,354579,3519096,302471223
+2684,Professional/Scientific/Technical Services,54,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,107866,1865729,167016731
+2685,Professional/Scientific/Technical Services,54,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,1868,41200,6686029
+2686,Professional/Scientific/Technical Services,54,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,289292,2941799,253293984
+2687,Professional/Scientific/Technical Services,54,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,75597,1540307,146032466
+2688,Professional/Scientific/Technical Services,54,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,987,28246,5269197
+2689,Professional/Scientific/Technical Services,54,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,176571,2287292,203491928
+2690,Professional/Scientific/Technical Services,54,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,145870,992884,72203153
+2691,Professional/Scientific/Technical Services,54,00,All firms,T3E11D99,Specialized Software: Total Reporting,399029,4848729,426996744
+2692,Real estate and rental and leasing,53,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,65,703,72148
+2693,Real estate and rental and leasing,53,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,113,29362,1145991
+2694,Real estate and rental and leasing,53,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,1266,23024,1879179
+2695,Real estate and rental and leasing,53,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,274,7360,614398
+2697,Real estate and rental and leasing,53,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,1081,45247,2470331
+2698,Real estate and rental and leasing,53,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,224,6422,526975
+2700,Real estate and rental and leasing,53,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,715,41971,2107618
+2701,Real estate and rental and leasing,53,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,457,4214,451197
+2702,Real estate and rental and leasing,53,00,All firms,T4E14D99,Robotics: Total Reporting,1441,53089,3097318
+2703,Real estate and rental and leasing,53,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,1071,19639,1068314
+2704,Real estate and rental and leasing,53,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,330,2857,255194
+2705,Real estate and rental and leasing,53,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,15380,111741,6562127
+2706,Real estate and rental and leasing,53,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,3051,33977,2127241
+2707,Real estate and rental and leasing,53,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,146,911,117542
+2708,Real estate and rental and leasing,53,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,13586,99349,5640852
+2709,Professional/Scientific/Technical Services,54,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,1660,264038,30389533
+2710,Professional/Scientific/Technical Services,54,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,567,86700,12174295
+2711,Professional/Scientific/Technical Services,54,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,13726,760592,86777722
+2712,Professional/Scientific/Technical Services,54,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,3941,426373,51855431
+2713,Professional/Scientific/Technical Services,54,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,152,27169,5337815
+2714,Professional/Scientific/Technical Services,54,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,11861,657788,72148304
+2715,Professional/Scientific/Technical Services,54,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,3959,435980,52607237
+2716,Professional/Scientific/Technical Services,54,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,130,25594,5139490
+2717,Professional/Scientific/Technical Services,54,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,8907,584507,63451044
+2718,Professional/Scientific/Technical Services,54,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,2956,65249,8143779
+2719,Professional/Scientific/Technical Services,54,00,All firms,T4E14D99,Robotics: Total Reporting,15952,1111330,129341550
+2720,Professional/Scientific/Technical Services,54,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,10403,459660,43862630
+2721,Professional/Scientific/Technical Services,54,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,2223,88495,11814037
+2722,Professional/Scientific/Technical Services,54,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,94396,1392912,120897187
+2723,Professional/Scientific/Technical Services,54,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,29285,635288,56263144
+2724,Professional/Scientific/Technical Services,54,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,533,32139,5868282
+2725,Real estate and rental and leasing,53,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,1784,19520,1093954
+2726,Real estate and rental and leasing,53,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,142,891,114343
+2727,Real estate and rental and leasing,53,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,7486,74769,4612148
+2728,Real estate and rental and leasing,53,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,7365,39057,2065189
+2729,Real estate and rental and leasing,53,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,16780,134237,7885635
+2743,Professional/Scientific/Technical Services,54,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,77203,1273638,114442428
+2744,Professional/Scientific/Technical Services,54,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,23545,582985,54521373
+2745,Professional/Scientific/Technical Services,54,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,337,25742,5191532
+2746,Professional/Scientific/Technical Services,54,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,57652,1148662,103079816
+2747,Professional/Scientific/Technical Services,54,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,25488,183677,13781133
+2748,Professional/Scientific/Technical Services,54,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,107022,1941066,176573854
+2979,Management of companies and enterprises,55,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,154,189983,24260469
+2980,Management of companies and enterprises,55,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,66,54921,7334812
+2981,Management of companies and enterprises,55,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,667,333526,44200286
+2982,Management of companies and enterprises,55,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,347,325795,42671145
+2983,Management of companies and enterprises,55,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,6,2332,353835
+2984,Management of companies and enterprises,55,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,536,250303,32770587
+2985,Management of companies and enterprises,55,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,389,339287,45008973
+2987,Management of companies and enterprises,55,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,433,212949,28406164
+2988,Management of companies and enterprises,55,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,65,24780,2150497
+2989,Management of companies and enterprises,55,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,889,578430,75795567
+2990,Management of companies and enterprises,55,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,1718,370563,42580537
+2991,Management of companies and enterprises,55,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,403,81227,9043817
+2992,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,1443,189532,9629562
+2993,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,514,34167,1937718
+2994,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,5884,301440,12052550
+2995,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,3406,286560,14749186
+2996,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,133,1616,39394
+2997,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,4302,236963,8831250
+2998,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,2171,280625,14933772
+2999,Management of companies and enterprises,55,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,7246,1080544,128635134
+3000,Management of companies and enterprises,55,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,2397,632008,78683366
+3001,Management of companies and enterprises,55,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,72,1413,106906
+3002,Management of companies and enterprises,55,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,6896,898914,101469217
+3003,Management of companies and enterprises,55,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,1539,532088,70085983
+3004,Management of companies and enterprises,55,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,64,843,62308
+3005,Management of companies and enterprises,55,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,5255,794274,90987990
+3006,Management of companies and enterprises,55,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,2507,205131,19123207
+3007,Management of companies and enterprises,55,00,All firms,T2E08D99,Cloud-Based: Total Reporting,9365,1532335,180259488
+3008,Management of companies and enterprises,55,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,1334,253432,29724084
+3009,Management of companies and enterprises,55,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,518,152319,18394894
+3010,Management of companies and enterprises,55,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,8163,1101050,129828449
+3011,Management of companies and enterprises,55,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,2108,569947,72248264
+3012,Management of companies and enterprises,55,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,141,12760,1510448
+3013,Management of companies and enterprises,55,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,7766,924095,104188716
+3014,Management of companies and enterprises,55,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,1541,517903,69018209
+3015,Management of companies and enterprises,55,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,13,1821,127468
+3017,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,3056,143684,5562790
+3018,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,2570,100786,3121658
+3019,Administrative and support and waste management and remediation services,56,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,7840,525139,23619830
+3020,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,13707,1373270,57375169
+3021,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,3446,228826,9676913
+3022,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,69707,3324192,142723285
+3023,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,24693,2162945,110160412
+3024,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,602,17598,967325
+3025,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,61565,2745746,98647629
+3026,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,12093,1142552,53667816
+3027,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,281,8112,687142
+3028,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,33444,2163982,103835280
+3029,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,41038,1611643,51585129
+3030,Administrative and support and waste management and remediation services,56,00,All firms,T2E08D99,Cloud-Based: Total Reporting,86860,4926288,209775367
+3031,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,12817,1366586,53039268
+3032,Management of companies and enterprises,55,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,5296,825171,93329598
+3033,Management of companies and enterprises,55,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,3164,161907,15472152
+3034,Management of companies and enterprises,55,00,All firms,T3E11D99,Specialized Software: Total Reporting,10013,1506801,177947427
+3036,Management of companies and enterprises,55,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,301,203598,28976847
+3037,Management of companies and enterprises,55,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,1188,452205,61974872
+3038,Management of companies and enterprises,55,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,395,363773,53584556
+3039,Management of companies and enterprises,55,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,21,5725,766106
+3040,Management of companies and enterprises,55,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,1255,404489,52196230
+3041,Management of companies and enterprises,55,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,399,355537,51879507
+3042,Management of companies and enterprises,55,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,9,1631,175141
+3043,Management of companies and enterprises,55,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,1180,394876,52057424
+3044,Management of companies and enterprises,55,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,86,21943,2434818
+3045,Management of companies and enterprises,55,00,All firms,T4E14D99,Robotics: Total Reporting,1673,773987,106546891
+3046,Management of companies and enterprises,55,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,771,226750,24888953
+3047,Management of companies and enterprises,55,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,282,117630,14939555
+3048,Management of companies and enterprises,55,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,3950,753316,92841082
+3049,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,3396,183722,6588113
+3050,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,78135,3621054,157595731
+3051,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,24385,2194223,105633969
+3052,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,807,51194,1760751
+3053,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,69159,2925945,109828392
+3054,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,10771,979520,40902278
+3055,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,284,6061,137254
+3056,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,37269,2498413,115220417
+3057,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,46026,1687368,60963163
+3058,Administrative and support and waste management and remediation services,56,00,All firms,T3E11D99,Specialized Software: Total Reporting,94348,5171362,217223112
+3059,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,549,57122,2168506
+3060,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,247,43704,3648751
+3061,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,2076,221677,10870887
+3062,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,660,71317,3616970
+3063,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,94,5812,451831
+3064,Other services (except public administration),81,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,48130,616889,24423509
+3065,Management of companies and enterprises,55,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,1033,406466,53199129
+3067,Management of companies and enterprises,55,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,3900,680272,78235459
+3068,Management of companies and enterprises,55,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,766,385332,51526440
+3070,Management of companies and enterprises,55,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,3280,633585,74767871
+3071,Management of companies and enterprises,55,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,902,76963,6109014
+3072,Management of companies and enterprises,55,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,5003,1097696,132669591
+3082,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,2117,245375,12619343
+3083,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,386,81877,3537114
+3085,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,1477,194254,11166274
+3086,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,998,41195,1566389
+3087,Administrative and support and waste management and remediation services,56,00,All firms,T4E14D99,Robotics: Total Reporting,2871,322504,16688144
+3088,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,6544,194902,8634471
+3089,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,1923,65108,2792137
+3090,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,38575,1060332,42603968
+3091,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,12852,340893,15133096
+3092,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,901,10858,398023
+3093,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,33291,968591,38499457
+3094,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,5697,212435,10709203
+3096,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,19031,674537,28094434
+3097,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,22126,432264,15184349
+3116,Administrative and support and waste management and remediation services,56,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,47042,1320342,54030576
+3364,Health care and social assistance,62,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,2305,43990,2612460
+3365,Health care and social assistance,62,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,691,14562,447402
+3366,Health care and social assistance,62,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,13818,176401,12811198
+3367,Health care and social assistance,62,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,6361,114830,6475152
+3368,Health care and social assistance,62,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,335,7412,114072
+3369,Health care and social assistance,62,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,10118,112710,9281837
+3370,Health care and social assistance,62,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,5192,92016,5190848
+3372,Health care and social assistance,62,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,6975,76781,4858447
+3373,Health care and social assistance,62,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,4480,59777,5757418
+3374,Health care and social assistance,62,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,16814,234952,15871060
+3375,Health care and social assistance,62,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,26448,929929,36386608
+3376,Health care and social assistance,62,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,6915,175605,7606491
+3377,Health care and social assistance,62,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,169315,3779874,186819620
+3378,Health care and social assistance,62,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,59443,1217041,54266470
+3379,Health care and social assistance,62,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,1204,19436,565626
+3380,Health care and social assistance,62,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,142030,3648931,175980623
+3381,Health care and social assistance,62,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,31785,666499,30320839
+3382,Health care and social assistance,62,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,854,15582,334047
+3383,Health care and social assistance,62,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,93133,2628331,136690929
+3384,Health care and social assistance,62,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,76905,1574997,63466904
+3385,Health care and social assistance,62,00,All firms,T2E08D99,Cloud-Based: Total Reporting,202679,4885409,230812719
+3386,Health care and social assistance,62,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,25016,750916,33349186
+3387,Health care and social assistance,62,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,6843,308543,15378793
+3388,Health care and social assistance,62,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,228160,4134316,205391601
+3389,Health care and social assistance,62,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,67400,1315921,59687945
+3390,Health care and social assistance,62,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,1195,29311,884060
+3392,Educational services,61,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,175,3679,126515
+3393,Educational services,61,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,1250,25740,1079549
+3394,Educational services,61,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,679,16704,831156
+3396,Educational services,61,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,860,40258,1309031
+3397,Educational services,61,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,337,14766,773560
+3398,Educational services,61,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,0,0,0
+3399,Educational services,61,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,672,40202,1309535
+3401,Educational services,61,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,1581,57175,2146528
+3402,Educational services,61,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,3853,73017,2989079
+3403,Educational services,61,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,1242,13265,531775
+3404,Educational services,61,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,18217,331325,12803158
+3405,Educational services,61,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,7854,132868,4999812
+3406,Educational services,61,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,170,1382,20964
+3407,Health care and social assistance,62,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,191422,3848541,193547575
+3408,Health care and social assistance,62,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,37268,654239,34474667
+3409,Health care and social assistance,62,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,777,19912,584062
+3410,Health care and social assistance,62,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,119820,2692750,145944327
+3411,Health care and social assistance,62,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,102151,1826874,73116525
+3412,Health care and social assistance,62,00,All firms,T3E11D99,Specialized Software: Total Reporting,260019,5193774,254119581
+3413,Health care and social assistance,62,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,883,283360,14267410
+3414,Health care and social assistance,62,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,229,13335,922636
+3415,Health care and social assistance,62,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,10321,701898,52439310
+3416,Health care and social assistance,62,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,2381,311245,15964173
+3417,Health care and social assistance,62,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,84,1737,141996
+3418,Health care and social assistance,62,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,8967,685611,51523188
+3419,Health care and social assistance,62,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,2058,145974,7123043
+3420,Health care and social assistance,62,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,84,1737,141996
+3421,Health care and social assistance,62,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,6316,794933,54608901
+3422,Health care and social assistance,62,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,2973,55948,5755417
+3423,Health care and social assistance,62,00,All firms,T4E14D99,Robotics: Total Reporting,11434,998593,67629357
+3424,Educational services,61,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,15290,283357,11303235
+3425,Educational services,61,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,3495,63016,2949421
+3427,Educational services,61,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,8283,205649,8902406
+3428,Educational services,61,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,11451,148601,4462955
+3429,Educational services,61,00,All firms,T2E08D99,Cloud-Based: Total Reporting,23315,417607,16324011
+3430,Educational services,61,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,3227,72455,2948253
+3431,Educational services,61,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,689,19704,622502
+3432,Educational services,61,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,19867,295631,9500545
+3433,Educational services,61,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,6302,106461,4433300
+3434,Educational services,61,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,271,2916,57663
+3435,Educational services,61,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,17212,278413,8580337
+3436,Educational services,61,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,3392,58676,2703720
+3437,Educational services,61,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,269,1778,26768
+3438,Educational services,61,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,7803,184512,6581423
+3439,Educational services,61,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,12320,142824,3759388
+3440,Educational services,61,00,All firms,T3E11D99,Specialized Software: Total Reporting,23783,387791,13071300
+3441,Educational services,61,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,47,1688,142278
+3442,Health care and social assistance,62,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,11763,311439,14973270
+3443,Health care and social assistance,62,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,2644,32364,1779451
+3444,Health care and social assistance,62,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,148128,2626096,157510499
+3445,Health care and social assistance,62,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,37073,626071,31938903
+3446,Health care and social assistance,62,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,1146,9908,428957
+3447,Health care and social assistance,62,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,124311,2333919,141895360
+3448,Health care and social assistance,62,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,24872,427236,22788323
+3449,Health care and social assistance,62,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,489,3965,222606
+3450,Health care and social assistance,62,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,81526,1781831,112390650
+3451,Health care and social assistance,62,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,55644,756866,38861642
+3452,Health care and social assistance,62,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,162532,2969898,174263220
+3460,Educational services,61,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,557,15731,729963
+3461,Educational services,61,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,110,4779,330915
+3462,Educational services,61,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,0,0,0
+3463,Educational services,61,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,498,12652,542294
+3464,Educational services,61,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,148,5836,325430
+3465,Educational services,61,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,0,0,0
+3466,Educational services,61,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,371,7255,439190
+3467,Educational services,61,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,89,4339,108589
+3468,Educational services,61,00,All firms,T4E14D99,Robotics: Total Reporting,606,17431,873209
+3469,Educational services,61,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,542,14420,675291
+3471,Educational services,61,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,5791,83451,3225146
+3472,Educational services,61,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,1125,21553,1032008
+3474,Educational services,61,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,5168,79653,2906992
+3475,Educational services,61,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,482,15889,848287
+3476,Educational services,61,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,0,0,0
+3507,Educational services,61,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,2869,53952,2196757
+3508,Educational services,61,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,3114,31706,904762
+3509,Educational services,61,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,6465,101547,3949806
+3737,Arts/Entertainment/Recreation,71,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,93,32484,532347
+3738,Arts/Entertainment/Recreation,71,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,1176,63594,2438355
+3739,Arts/Entertainment/Recreation,71,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,447,38672,803203
+3741,Arts/Entertainment/Recreation,71,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,908,62304,2567691
+3742,Arts/Entertainment/Recreation,71,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,221,35237,671355
+3744,Arts/Entertainment/Recreation,71,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,727,41876,1901447
+3745,Arts/Entertainment/Recreation,71,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,457,23871,798823
+3746,Arts/Entertainment/Recreation,71,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,1452,101168,3373099
+3747,Arts/Entertainment/Recreation,71,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,2704,116636,5369450
+3748,Arts/Entertainment/Recreation,71,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,465,46909,1113244
+3749,Arts/Entertainment/Recreation,71,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,25698,622350,24083079
+3750,Arts/Entertainment/Recreation,71,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,6526,246414,9790343
+3751,Arts/Entertainment/Recreation,71,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,93,205,53347
+3752,Arts/Entertainment/Recreation,71,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,22251,539276,20722083
+3753,Arts/Entertainment/Recreation,71,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,2649,198414,6930605
+3754,Accommodation and food services,72,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,1622,63287,1186557
+3755,Accommodation and food services,72,00,All firms,T4E14D99,Robotics: Total Reporting,3485,637036,15398765
+3756,Accommodation and food services,72,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,6013,283857,6367807
+3757,Accommodation and food services,72,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,3015,89297,1511604
+3758,Accommodation and food services,72,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,42198,1694428,34863721
+3759,Accommodation and food services,72,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,9814,413000,9159087
+3760,Accommodation and food services,72,00,All firms,T5E17D05,Specialized Equipment: Decreased skill level of workers employed by this business,1626,29471,463953
+3761,Accommodation and food services,72,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,39786,1625111,33120092
+3762,Accommodation and food services,72,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,4368,260338,8475423
+3763,Accommodation and food services,72,00,All firms,T5E17D08,Specialized Equipment: Decreased STEM skills of workers employed by this business,1054,17859,306370
+3764,Accommodation and food services,72,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,20579,856294,16123245
+3765,Accommodation and food services,72,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,25227,933091,17838094
+3766,Accommodation and food services,72,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,51228,2067582,42743132
+3771,Arts/Entertainment/Recreation,71,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,52,163,18016
+3772,Arts/Entertainment/Recreation,71,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,10578,330591,12772448
+3773,Arts/Entertainment/Recreation,71,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,15590,256727,10844704
+3774,Arts/Entertainment/Recreation,71,00,All firms,T2E08D99,Cloud-Based: Total Reporting,28868,785895,30565773
+3775,Arts/Entertainment/Recreation,71,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,2416,145953,4778375
+3776,Arts/Entertainment/Recreation,71,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,884,65819,1344594
+3777,Arts/Entertainment/Recreation,71,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,29824,592463,23455936
+3778,Arts/Entertainment/Recreation,71,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,6931,286198,9287455
+3779,Arts/Entertainment/Recreation,71,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,287,3361,30439
+3780,Arts/Entertainment/Recreation,71,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,25903,514676,20261011
+3781,Arts/Entertainment/Recreation,71,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,2532,164442,5685988
+3783,Arts/Entertainment/Recreation,71,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,11498,342756,13335891
+3784,Arts/Entertainment/Recreation,71,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,18946,295562,10549263
+3785,Arts/Entertainment/Recreation,71,00,All firms,T3E11D99,Specialized Software: Total Reporting,33124,804235,29578905
+3787,Arts/Entertainment/Recreation,71,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,148,32647,503469
+3806,Arts/Entertainment/Recreation,71,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,625,41989,1062269
+3807,Arts/Entertainment/Recreation,71,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,186,34242,587216
+3809,Arts/Entertainment/Recreation,71,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,588,40875,1031283
+3810,Arts/Entertainment/Recreation,71,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,226,34242,588965
+3811,Arts/Entertainment/Recreation,71,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,0,0,0
+3812,Arts/Entertainment/Recreation,71,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,288,38342,924630
+3814,Arts/Entertainment/Recreation,71,00,All firms,T4E14D99,Robotics: Total Reporting,819,75302,1619973
+3815,Arts/Entertainment/Recreation,71,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,1009,40421,1466071
+3816,Arts/Entertainment/Recreation,71,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,458,44509,609649
+3817,Arts/Entertainment/Recreation,71,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,12600,314579,12781812
+3818,Arts/Entertainment/Recreation,71,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,3370,173703,5962109
+3820,Arts/Entertainment/Recreation,71,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,10603,225039,8887796
+3821,Arts/Entertainment/Recreation,71,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,1516,99348,3164105
+3849,Arts/Entertainment/Recreation,71,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,4996,150085,6606889
+3850,Arts/Entertainment/Recreation,71,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,7466,141778,5029987
+3851,Arts/Entertainment/Recreation,71,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,14069,399508,14857532
+4064,Other services (except public administration),81,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,885,35918,2768865
+4066,Other services (except public administration),81,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,4701,106110,5964200
+4067,Other services (except public administration),81,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,2297,47806,3315828
+4068,Other services (except public administration),81,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,83,309,10136
+4069,Other services (except public administration),81,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,3758,100950,5657873
+4070,Other services (except public administration),81,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,1273,49034,3679721
+4072,Other services (except public administration),81,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,2905,87258,4833514
+4073,Other services (except public administration),81,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,1915,12687,467512
+4074,Other services (except public administration),81,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,6138,149065,8983836
+4075,Other services (except public administration),81,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,9774,206294,7966121
+4076,Other services (except public administration),81,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,2928,58968,2651066
+4077,Other services (except public administration),81,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,58216,645714,25371917
+4078,Other services (except public administration),81,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,22203,285623,10581529
+4079,Other services (except public administration),81,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,583,8464,984067
+4099,Accommodation and food services,72,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,1581,33103,1426460
+4100,Accommodation and food services,72,00,All firms,T1E05D02,Artificial Intelligence: Decreased number of workers employed by this business,1129,43941,1541705
+4101,Accommodation and food services,72,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,6246,266132,5536713
+4102,Accommodation and food services,72,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,3865,104595,3364483
+4103,Accommodation and food services,72,00,All firms,T1E05D05,Artificial Intelligence: Decreased skill level of workers employed by this business,645,13880,240765
+4104,Accommodation and food services,72,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,4447,224701,4899630
+4105,Accommodation and food services,72,00,All firms,T1E05D07,Artificial Intelligence: Increased STEM skills of workers employed by this business,2154,77475,2748034
+4106,Accommodation and food services,72,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,579,14580,277257
+4107,Accommodation and food services,72,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,2828,142102,2774870
+4108,Accommodation and food services,72,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,3396,109019,2704718
+4109,Accommodation and food services,72,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,8957,343176,8504878
+4110,Accommodation and food services,72,00,All firms,T2E08D01,Cloud-Based: Increased number of workers employed by this business,12019,910394,22883659
+4111,Accommodation and food services,72,00,All firms,T2E08D02,Cloud-Based: Decreased number of workers employed by this business,5085,237774,4168189
+4112,Accommodation and food services,72,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,77902,3571549,74437934
+4113,Accommodation and food services,72,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,20927,1006954,24057600
+4114,Accommodation and food services,72,00,All firms,T2E08D05,Cloud-Based: Decreased skill level of workers employed by this business,2626,77858,1325025
+4115,Accommodation and food services,72,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,71450,3634905,76107158
+4116,Accommodation and food services,72,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,8775,515411,12925571
+4117,Accommodation and food services,72,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,1513,51861,885663
+4118,Accommodation and food services,72,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,33454,2059464,44079938
+4119,Accommodation and food services,72,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,51262,2092980,43598610
+4120,Accommodation and food services,72,00,All firms,T2E08D99,Cloud-Based: Total Reporting,95006,4719717,101489782
+4121,Accommodation and food services,72,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,9820,589123,12958639
+4122,Accommodation and food services,72,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,5464,231061,4676247
+4123,Accommodation and food services,72,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,99275,4221765,87915186
+4124,Arts/Entertainment/Recreation,71,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,184,5090,402397
+4125,Accommodation and food services,72,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,2548,78652,1851261
+4126,Accommodation and food services,72,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,21229,788335,17993473
+4127,Accommodation and food services,72,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,90782,4174963,85705338
+4128,Accommodation and food services,72,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,8739,472363,11867791
+4129,Accommodation and food services,72,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,1510,29563,471365
+4130,Accommodation and food services,72,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,41797,2235338,45626155
+4131,Accommodation and food services,72,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,62511,2304686,47584761
+4132,Accommodation and food services,72,00,All firms,T3E11D99,Specialized Software: Total Reporting,114559,5041950,105550072
+4133,Accommodation and food services,72,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,583,24954,460973
+4134,Accommodation and food services,72,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,538,107758,2245936
+4135,Accommodation and food services,72,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,2365,504323,12691856
+4136,Accommodation and food services,72,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,822,206727,5854316
+4138,Accommodation and food services,72,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,2570,427670,9508958
+4139,Accommodation and food services,72,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,535,119816,4455709
+4141,Accommodation and food services,72,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,1178,451179,9719155
+4163,Other services (except public administration),81,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,37637,510342,21056867
+4164,Other services (except public administration),81,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,35540,241930,7878873
+4165,Other services (except public administration),81,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,85976,860251,34015556
+4316,Industries not classified,99,00,All firms,T1E05D03,Artificial Intelligence: Did not change number of workers employed by this business,517,978,15893
+4317,Industries not classified,99,00,All firms,T1E05D04,Artificial Intelligence: Increased skill level of workers employed by this business,177,469,10968
+4319,Industries not classified,99,00,All firms,T1E05D06,Artificial Intelligence: Did not change skill level of workers employed by this business,388,667,9836
+4321,Industries not classified,99,00,All firms,T1E05D08,Artificial Intelligence: Decreased STEM skills of workers employed by this business,0,0,0
+4322,Industries not classified,99,00,All firms,T1E05D09,Artificial Intelligence: Did not change STEM skills of workers employed by this business,210,352,5727
+4323,Industries not classified,99,00,All firms,T1E05D10,Artificial Intelligence: N/A did not employ workers with STEM skills,212,446,5058
+4324,Industries not classified,99,00,All firms,T1E05D99,Artificial Intelligence: Total Reporting,572,1142,21075
+4327,Industries not classified,99,00,All firms,T2E08D03,Cloud-Based: Did not change number of workers employed by this business,1599,28613,84387
+4328,Industries not classified,99,00,All firms,T2E08D04,Cloud-Based: Increased skill level of workers employed by this business,446,5540,16881
+4330,Industries not classified,99,00,All firms,T2E08D06,Cloud-Based: Did not change skill level of workers employed by this business,1198,23172,73139
+4331,Industries not classified,99,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,392,5371,12451
+4332,Industries not classified,99,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,0,0,0
+4333,Industries not classified,99,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,568,21305,36998
+4334,Industries not classified,99,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,691,2059,41275
+4335,Industries not classified,99,00,All firms,T2E08D99,Cloud-Based: Total Reporting,1651,28735,90725
+4338,Industries not classified,99,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,2575,26488,106729
+4339,Industries not classified,99,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,512,5385,15316
+4341,Industries not classified,99,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,2139,21285,94973
+4342,Industries not classified,99,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,426,5204,13159
+4344,Industries not classified,99,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,938,14698,38843
+4345,Industries not classified,99,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,1286,6768,58287
+4346,Industries not classified,99,00,All firms,T3E11D99,Specialized Software: Total Reporting,2670,26690,110387
+4347,Industries not classified,99,00,All firms,T4E14D01,Robotics: Increased number of workers employed by this business,0,0,0
+4348,Industries not classified,99,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,34,108,934
+4349,Industries not classified,99,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,200,504,6003
+4351,Industries not classified,99,00,All firms,T4E14D05,Robotics: Decreased skill level of workers employed by this business,0,0,0
+4352,Industries not classified,99,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,210,570,6381
+4354,Industries not classified,99,00,All firms,T4E14D08,Robotics: Decreased STEM skills of workers employed by this business,0,0,0
+4356,Industries not classified,99,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,102,322,2509
+4357,Industries not classified,99,00,All firms,T4E14D99,Robotics: Total Reporting,233,612,6937
+4360,Industries not classified,99,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,2269,30053,81225
+4361,Industries not classified,99,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,486,5531,21534
+4363,Industries not classified,99,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,1853,24722,66038
+4364,Industries not classified,99,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,313,5155,11359
+4366,Industries not classified,99,00,All firms,T5E17D09,Specialized Equipment: Did not change STEM skills of workers employed by this business,1016,22737,47406
+4367,Industries not classified,99,00,All firms,T5E17D10,Specialized Equipment: N/A did not employ workers with STEM skills,1047,2395,29554
+4368,Industries not classified,99,00,All firms,T5E17D99,Specialized Equipment: Total Reporting,2397,30311,88511
+4387,Other services (except public administration),81,00,All firms,T4E14D02,Robotics: Decreased number of workers employed by this business,332,9303,604647
+4388,Other services (except public administration),81,00,All firms,T4E14D03,Robotics: Did not change number of workers employed by this business,3676,103909,5774502
+4389,Other services (except public administration),81,00,All firms,T4E14D04,Robotics: Increased skill level of workers employed by this business,864,20939,1248088
+4391,Other services (except public administration),81,00,All firms,T4E14D06,Robotics: Did not change skill level of workers employed by this business,3310,100481,5612859
+4392,Other services (except public administration),81,00,All firms,T4E14D07,Robotics: Increased STEM skills of workers employed by this business,631,19076,1176947
+4394,Other services (except public administration),81,00,All firms,T4E14D09,Robotics: Did not change STEM skills of workers employed by this business,2067,87041,5050015
+4395,Other services (except public administration),81,00,All firms,T4E14D10,Robotics: N/A did not employ workers with STEM skills,1478,15049,629582
+4396,Other services (except public administration),81,00,All firms,T4E14D99,Robotics: Total Reporting,4261,121505,6864625
+4397,Other services (except public administration),81,00,All firms,T5E17D01,Specialized Equipment: Increased number of workers employed by this business,6871,101112,5070690
+4398,Other services (except public administration),81,00,All firms,T5E17D02,Specialized Equipment: Decreased number of workers employed by this business,3191,87205,2650177
+4399,Other services (except public administration),81,00,All firms,T5E17D03,Specialized Equipment: Did not change number of workers employed by this business,75916,671934,26294689
+4400,Other services (except public administration),81,00,All firms,T5E17D04,Specialized Equipment: Increased skill level of workers employed by this business,24401,191721,7626110
+4402,Other services (except public administration),81,00,All firms,T5E17D06,Specialized Equipment: Did not change skill level of workers employed by this business,60195,622612,24922739
+4403,Other services (except public administration),81,00,All firms,T5E17D07,Specialized Equipment: Increased STEM skills of workers employed by this business,12351,105535,4952028
+4423,Other services (except public administration),81,00,All firms,T2E08D07,Cloud-Based: Increased STEM skills of workers employed by this business,10162,116306,4735108
+4424,Other services (except public administration),81,00,All firms,T2E08D08,Cloud-Based: Decreased STEM skills of workers employed by this business,151,2759,860482
+4425,Other services (except public administration),81,00,All firms,T2E08D09,Cloud-Based: Did not change STEM skills of workers employed by this business,27924,462770,20135529
+4426,Other services (except public administration),81,00,All firms,T2E08D10,Cloud-Based: N/A did not employ workers with STEM skills,32680,329141,10257987
+4427,Other services (except public administration),81,00,All firms,T2E08D99,Cloud-Based: Total Reporting,70916,910976,35989105
+4428,Other services (except public administration),81,00,All firms,T3E11D01,Specialized Software: Increased number of workers employed by this business,9707,191305,7980013
+4429,Other services (except public administration),81,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,4549,80555,2663336
+4430,Other services (except public administration),81,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,94182,925834,35248562
+4431,Other services (except public administration),81,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,29466,308507,11742254
+4433,Other services (except public administration),81,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,77852,848256,32942770
+4434,Other services (except public administration),81,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,14781,139844,6139531
+4435,Other services (except public administration),81,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,540,3975,134842
+4436,Other services (except public administration),81,00,All firms,T3E11D09,Specialized Software: Did not change STEM skills of workers employed by this business,42674,636866,26577852
+4437,Other services (except public administration),81,00,All firms,T3E11D10,Specialized Software: N/A did not employ workers with STEM skills,50444,417009,13039686
+4438,Other services (except public administration),81,00,All firms,T3E11D99,Specialized Software: Total Reporting,108436,1197695,45891912
