@@ -975,8 +975,8 @@
 4122,Accommodation and food services,72,00,All firms,T3E11D02,Specialized Software: Decreased number of workers employed by this business,5464,231061,4676247
 4123,Accommodation and food services,72,00,All firms,T3E11D03,Specialized Software: Did not change number of workers employed by this business,99275,4221765,87915186
 4124,Arts/Entertainment/Recreation,71,00,All firms,T1E05D01,Artificial Intelligence: Increased number of workers employed by this business,184,5090,402397
-4125,Accommodation and food services,72,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,2548,78652,1851261
-4126,Accommodation and food services,72,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,21229,788335,17993473
+4125,Accommodation and food services,72,00,All firms,T3E11D04,Specialized Software: Increased skill level of workers employed by this business,21229,788335,17993473
+4126,Accommodation and food services,72,00,All firms,T3E11D05,Specialized Software: Decreased skill level of workers employed by this business,2548,78652,1851261
 4127,Accommodation and food services,72,00,All firms,T3E11D06,Specialized Software: Did not change skill level of workers employed by this business,90782,4174963,85705338
 4128,Accommodation and food services,72,00,All firms,T3E11D07,Specialized Software: Increased STEM skills of workers employed by this business,8739,472363,11867791
 4129,Accommodation and food services,72,00,All firms,T3E11D08,Specialized Software: Decreased STEM skills of workers employed by this business,1510,29563,471365
