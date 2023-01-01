@@ -1,8 +1,8 @@
 ,revenue,race,industry
-158,859069864,White,Total for all sectors
-159,1524715059,White,Total for all sectors
-160,1373000168,White,Total for all sectors
-161,1808342440,White,Total for all sectors
+158,1808342440,White,Total for all sectors
+159,859069864,White,Total for all sectors
+160,1524715059,White,Total for all sectors
+161,1373000168,White,Total for all sectors
 162,1017950763,White,Total for all sectors
 163,2428904285,White,Total for all sectors
 164,1196645206,White,Total for all sectors
@@ -36,9 +36,9 @@
 192,12137179,White,Total for all sectors
 193,5164987,White,Total for all sectors
 196,3199079,White,Total for all sectors
-197,1549679,White,Total for all sectors
-198,29270987,White,Total for all sectors
-199,36156045,White,Total for all sectors
+197,36156045,White,Total for all sectors
+198,1549679,White,Total for all sectors
+199,29270987,White,Total for all sectors
 200,12794878083,White,Total for all sectors
 201,245402684,White,Total for all sectors
 202,958412057,White,Total for all sectors
@@ -53,10 +53,10 @@
 211,10185244392,White,Total for all sectors
 212,1123535666,White,Total for all sectors
 213,128012399,Black or African American,Total for all sectors
-214,5862821,Black or African American,Total for all sectors
-215,21668981,Black or African American,Total for all sectors
-216,15097120,Black or African American,Total for all sectors
-217,15971157,Black or African American,Total for all sectors
+214,15971157,Black or African American,Total for all sectors
+215,5862821,Black or African American,Total for all sectors
+216,21668981,Black or African American,Total for all sectors
+217,15097120,Black or African American,Total for all sectors
 218,20462386,Black or African American,Total for all sectors
 219,16073769,Black or African American,Total for all sectors
 220,14213762,Black or African American,Total for all sectors
@@ -66,10 +66,10 @@
 224,262895752,White,Total for all sectors
 225,1036300542,White,Total for all sectors
 226,889738319,White,Total for all sectors
-227,1187451164,White,Total for all sectors
-228,2019427728,White,Total for all sectors
-229,1718298023,White,Total for all sectors
-230,2171307790,White,Total for all sectors
+227,2171307790,White,Total for all sectors
+228,1187451164,White,Total for all sectors
+229,2019427728,White,Total for all sectors
+230,1718298023,White,Total for all sectors
 231,1219306366,White,Total for all sectors
 232,2798436864,White,Total for all sectors
 233,1575575539,White,Total for all sectors
@@ -87,10 +87,10 @@
 245,717468209,White,Total for all sectors
 246,616254316,White,Total for all sectors
 247,9376,Black or African American,Total for all sectors
-248,184199,Black or African American,Total for all sectors
-249,119204187,Black or African American,Total for all sectors
-250,5209043,Black or African American,Total for all sectors
-251,19671116,Black or African American,Total for all sectors
+248,19671116,Black or African American,Total for all sectors
+249,184199,Black or African American,Total for all sectors
+250,119204187,Black or African American,Total for all sectors
+251,5209043,Black or African American,Total for all sectors
 252,13973155,Black or African American,Total for all sectors
 253,14904308,Black or African American,Total for all sectors
 254,19414015,Black or African American,Total for all sectors
@@ -115,10 +115,10 @@
 273,1146073,American Indian and Alaska Native,Total for all sectors
 274,4465681,American Indian and Alaska Native,Total for all sectors
 275,4383002,American Indian and Alaska Native,Total for all sectors
-276,4857328,American Indian and Alaska Native,Total for all sectors
-277,6121582,American Indian and Alaska Native,Total for all sectors
-278,3709944,American Indian and Alaska Native,Total for all sectors
-279,4869469,American Indian and Alaska Native,Total for all sectors
+276,4869469,American Indian and Alaska Native,Total for all sectors
+277,4857328,American Indian and Alaska Native,Total for all sectors
+278,6121582,American Indian and Alaska Native,Total for all sectors
+279,3709944,American Indian and Alaska Native,Total for all sectors
 280,1816925,American Indian and Alaska Native,Total for all sectors
 281,2327499,American Indian and Alaska Native,Total for all sectors
 282,10177609,American Indian and Alaska Native,Total for all sectors
@@ -152,10 +152,10 @@
 311,8735294,Black or African American,Total for all sectors
 312,9373368,Black or African American,Total for all sectors
 313,310586,Black or African American,Total for all sectors
-314,1594100,Black or African American,Total for all sectors
-315,1086639,Black or African American,Total for all sectors
-316,1391854,Black or African American,Total for all sectors
-317,1295581,Black or African American,Total for all sectors
+314,1295581,Black or African American,Total for all sectors
+315,1594100,Black or African American,Total for all sectors
+316,1086639,Black or African American,Total for all sectors
+317,1391854,Black or African American,Total for all sectors
 318,1231795,Black or African American,Total for all sectors
 321,351902,Black or African American,Total for all sectors
 322,8614638,Black or African American,Total for all sectors
@@ -193,10 +193,10 @@
 367,82164381,Asian,Total for all sectors
 368,171448705,Asian,Total for all sectors
 369,6439164,Asian,Total for all sectors
-370,35947403,Asian,Total for all sectors
-371,27557633,Asian,Total for all sectors
-372,22856828,Asian,Total for all sectors
-373,28021113,Asian,Total for all sectors
+370,28021113,Asian,Total for all sectors
+371,35947403,Asian,Total for all sectors
+372,27557633,Asian,Total for all sectors
+373,22856828,Asian,Total for all sectors
 375,12498323,Asian,Total for all sectors
 376,5449738,Asian,Total for all sectors
 377,11611869,Asian,Total for all sectors
@@ -257,9 +257,9 @@
 471,81965832,Asian,Total for all sectors
 472,168318727,Asian,Total for all sectors
 473,583914665,Asian,Total for all sectors
-474,104805708,Asian,Total for all sectors
-475,11177012,Native Hawaiian and Other Pacific Islander,Total for all sectors
-476,243897,Native Hawaiian and Other Pacific Islander,Total for all sectors
+475,104805708,Asian,Total for all sectors
+476,11177012,Native Hawaiian and Other Pacific Islander,Total for all sectors
+477,243897,Native Hawaiian and Other Pacific Islander,Total for all sectors
 478,1123597,Native Hawaiian and Other Pacific Islander,Total for all sectors
 479,1145644,Native Hawaiian and Other Pacific Islander,Total for all sectors
 483,146617,Native Hawaiian and Other Pacific Islander,Total for all sectors
@@ -343,13 +343,13 @@
 819,1615859,Black or African American,Total for all sectors
 820,61184,Black or African American,Total for all sectors
 821,265310,Black or African American,Total for all sectors
-902,1399670,Asian,Total for all sectors
-903,2512566,Asian,Total for all sectors
+903,1399670,Asian,Total for all sectors
+904,2512566,Asian,Total for all sectors
 905,1562,Native Hawaiian and Other Pacific Islander,Total for all sectors
 906,2081,Native Hawaiian and Other Pacific Islander,Total for all sectors
-967,1576662,Black or African American,Total for all sectors
-968,224577,American Indian and Alaska Native,Total for all sectors
-969,2879,American Indian and Alaska Native,Total for all sectors
+968,1576662,Black or African American,Total for all sectors
+969,224577,American Indian and Alaska Native,Total for all sectors
+970,2879,American Indian and Alaska Native,Total for all sectors
 976,130249,American Indian and Alaska Native,Total for all sectors
 978,182906,American Indian and Alaska Native,Total for all sectors
 979,2512566,Asian,Total for all sectors
