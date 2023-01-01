@@ -1,0 +1,305 @@
+,geo_id,name,naics2017,industry,sex_code,sex,eth_group,ethnicity,race_group,race,vet_group,vet_group_label,empszfi,empszfi_label,year,number_of_firms,firmpdemp_f,revenue,revenue_ranges,number_of_employees,emp_f,annual_payroll,payann_f,us
+213,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,001,All firms,2018,124551,,128012399,,1188819,,36939229,,1
+214,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,611,Firms with no employees,2018,17037,,5862821,,0,,995043,,1
+215,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,66333,,21668981,,128697,,4582964,,1
+216,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,19095,,15097120,,126014,,4215097,,1
+217,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,630,Firms with 10 to 19 employees,2018,11739,,15971157,,157818,,5178547,,1
+218,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,641,Firms with 20 to 49 employees,2018,6411,,20462386,,199007,,6242324,,1
+219,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,642,Firms with 50 to 99 employees,2018,2621,,16073769,,179734,,4727705,,1
+220,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,651,Firms with 100 to 249 employees,2018,874,,14213762,,127460,,3996443,,1
+221,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,652,Firms with 250 to 499 employees,2018,310,,6840835,,116614,,2484785,,1
+222,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,132,,11821568,,153474,,4516321,,1
+247,0100000US,United States,00,Total for all sectors,003,Male,028,Equally Hispanic/non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,13,,9376,,51,,1798,,1
+248,0100000US,United States,00,Total for all sectors,004,Equally male/female,028,Equally Hispanic/non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,428,,184199,,2222,,66674,,1
+249,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,114811,,119204187,,1140753,,35313619,,1
+250,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,611,Firms with no employees,2018,15637,,5209043,,0,,930274,,1
+251,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,60380,,19671116,,117231,,4160398,,1
+252,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,17694,,13973155,,117214,,3936017,,1
+253,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,630,Firms with 10 to 19 employees,2018,11135,,14904308,,149787,,4945897,,1
+254,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,641,Firms with 20 to 49 employees,2018,6141,,19414015,,190965,,6062306,,1
+255,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,642,Firms with 50 to 99 employees,2018,2519,,13799507,,172785,,4507485,,1
+256,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,651,Firms with 100 to 249 employees,2018,873,,13941220,,126764,,3941556,,1
+257,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,652,Firms with 250 to 499 employees,2018,307,,6790617,,115639,,2455858,,1
+258,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,128,,11501205,,150368,,4373828,,1
+259,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,001,All firms,2018,14559,,22348339,,121618,,5347531,,1
+260,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,2147,,832799,,0,,103368,,1
+261,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,7839,,2888935,,14420,,544606,,1
+262,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,620,Firms with 5 to 9 employees,2018,2147,,2504533,,14236,,521290,,1
+263,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,630,Firms with 10 to 19 employees,2018,1483,,3909771,,20118,,871985,,1
+264,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,641,Firms with 20 to 49 employees,2018,633,,3589992,,18379,,952974,,1
+265,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,642,Firms with 50 to 99 employees,2018,200,,2943187,,15119,,634189,,1
+266,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,651,Firms with 100 to 249 employees,2018,81,,2640249,,11892,,650102,,1
+267,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,652,Firms with 250 to 499 employees,2018,21,,1565181,,7032,,402994,,1
+268,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,001,Total,657,Firms with 500 employees or more,2018,11,,1473692,,20421,,666023,,1
+269,0100000US,United States,00,Total for all sectors,002,Female,029,Non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,40166,,29147500,,386666,,10644332,,1
+270,0100000US,United States,00,Total for all sectors,003,Male,029,Non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,63851,,81100613,,620604,,21623108,,1
+271,0100000US,United States,00,Total for all sectors,004,Equally male/female,029,Non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,10794,,8956074,,133484,,3046179,,1
+272,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,001,All firms,2018,24433,,33697503,,200256,,8241262,,1
+273,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,3369,,1146073,,0,,157751,,1
+274,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,12915,,4465681,,24381,,849334,,1
+275,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,620,Firms with 5 to 9 employees,2018,4173,,4383002,,27303,,979018,,1
+276,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,630,Firms with 10 to 19 employees,2018,2339,,4857328,,31360,,1177248,,1
+277,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,641,Firms with 20 to 49 employees,2018,1065,,6121582,,31711,,1483619,,1
+278,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,642,Firms with 50 to 99 employees,2018,316,,3709944,,22969,,819021,,1
+279,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,651,Firms with 100 to 249 employees,2018,212,,4869469,,28171,,1418362,,1
+280,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,652,Firms with 250 to 499 employees,2018,27,,1816925,,9090,,493304,,1
+281,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,001,Total,657,Firms with 500 employees or more,2018,17,,2327499,,25272,,863606,,1
+282,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,001,All firms,2018,8985,,10177609,,71754,,2670156,,1
+283,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,1146,,292839,,0,,51156,,1
+284,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,4666,,1393267,,9127,,271710,,1
+285,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,620,Firms with 5 to 9 employees,2018,1749,,1479863,,11188,,391374,,1
+286,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,630,Firms with 10 to 19 employees,2018,777,,812527,,10329,,275833,,1
+287,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,641,Firms with 20 to 49 employees,2018,394,,2386787,,12133,,500438,,1
+288,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,642,Firms with 50 to 99 employees,2018,112,,615538,,7544,,170336,,1
+290,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,652,Firms with 250 to 499 employees,2018,7,,251744,,2058,,90310,,1
+291,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,001,Total,657,Firms with 500 employees or more,2018,5,,797686,,3208,,156655,,1
+292,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,001,All firms,2018,43163,,30440533,,399601,,11024868,,1
+293,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,611,Firms with no employees,2018,5670,,1412165,,0,,338292,,1
+294,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,22165,,5628079,,41987,,1403066,,1
+295,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,6893,,4271233,,45260,,1299328,,1
+296,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,630,Firms with 10 to 19 employees,2018,4654,,4142364,,63161,,1610997,,1
+297,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,641,Firms with 20 to 49 employees,2018,2420,,5280563,,74631,,2121130,,1
+298,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,642,Firms with 50 to 99 employees,2018,953,,3103681,,64204,,1406196,,1
+299,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,651,Firms with 100 to 249 employees,2018,330,,2905536,,47719,,1189861,,1
+300,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,652,Firms with 250 to 499 employees,2018,53,,962538,,19456,,413901,,1
+301,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,32,,2734373,,43184,,1242096,,1
+302,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,001,All firms,2018,69624,,88198498,,650812,,22743548,,1
+303,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,611,Firms with no employees,2018,10280,,4140070,,0,,584922,,1
+304,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,38093,,14446802,,74029,,2863656,,1
+305,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,10308,,9739248,,68309,,2633282,,1
+306,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,630,Firms with 10 to 19 employees,2018,5733,,10436939,,76806,,3096785,,1
+307,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,641,Firms with 20 to 49 employees,2018,3178,,13886242,,99710,,3537161,,1
+308,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,642,Firms with 50 to 99 employees,2018,1324,,11738292,,91245,,2810971,,1
+309,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,651,Firms with 100 to 249 employees,2018,422,,9659056,,62050,,2250753,,1
+310,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,652,Firms with 250 to 499 employees,2018,196,,5416556,,76341,,1825175,,1
+311,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,90,,8735294,,102321,,3140844,,1
+312,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,001,All firms,2018,11765,,9373368,,138405,,3170813,,1
+313,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,611,Firms with no employees,2018,1086,,310586,,0,,71829,,1
+314,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,6077,,1594100,,12681,,316242,,1
+315,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,1893,,1086639,,12445,,282487,,1
+316,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,630,Firms with 10 to 19 employees,2018,1353,,1391854,,17851,,470765,,1
+317,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,641,Firms with 20 to 49 employees,2018,814,,1295581,,24666,,584033,,1
+318,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,642,Firms with 50 to 99 employees,2018,344,,1231795,,24285,,510538,,1
+321,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,12,,351902,,7969,,133381,,1
+322,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,001,All firms,2018,9300,,8614638,,45793,,1557138,,1
+324,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,612,Firms with 1 to 4 employees,2018,5684,,1943854,,10910,,412280,,1
+325,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,620,Firms with 5 to 9 employees,2018,1318,,1091609,,8360,,268284,,1
+329,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,651,Firms with 100 to 249 employees,2018,2,,212121,,486,,24855,,1
+330,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,652,Firms with 250 to 499 employees,2018,2,,50218,,975,,28927,,1
+331,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,001,Total,657,Firms with 500 employees or more,2018,5,,320363,,3106,,142493,,1
+332,0100000US,United States,00,Total for all sectors,002,Female,020,Hispanic,40,Black or African American,001,Total,001,All firms,2018,2998,,1293033,,12936,,380535,,1
+334,0100000US,United States,00,Total for all sectors,004,Equally male/female,020,Hispanic,40,Black or African American,001,Total,001,All firms,2018,541,,233096,,2699,,57960,,1
+335,0100000US,United States,00,Total for all sectors,001,Total,028,Equally Hispanic/non-Hispanic,40,Black or African American,001,Total,001,All firms,2018,442,,193575,,2273,,68472,,1
+336,0100000US,United States,00,Total for all sectors,001,Total,028,Equally Hispanic/non-Hispanic,40,Black or African American,001,Total,611,Firms with no employees,2018,30,,4844,,0,,711,,1
+345,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,20208,,31095090,,174872,,7515705,,1
+346,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,2706,,1028008,,0,,130646,,1
+347,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,10670,,3759477,,20025,,690740,,1
+348,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,620,Firms with 5 to 9 employees,2018,3523,,3824766,,23074,,847738,,1
+349,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,630,Firms with 10 to 19 employees,2018,1840,,4121644,,24881,,969367,,1
+350,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,641,Firms with 20 to 49 employees,2018,979,,5983503,,29120,,1420482,,1
+351,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,642,Firms with 50 to 99 employees,2018,265,,3512089,,18533,,735936,,1
+352,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,651,Firms with 100 to 249 employees,2018,181,,4721180,,24877,,1363886,,1
+353,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,652,Firms with 250 to 499 employees,2018,27,,1816925,,9090,,493304,,1
+354,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,657,Firms with 500 employees or more,2018,17,,2327499,,25272,,863606,,1
+355,0100000US,United States,00,Total for all sectors,002,Female,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,7338,,9529444,,62684,,2470182,,1
+356,0100000US,United States,00,Total for all sectors,003,Male,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,12301,,20603862,,106838,,4876633,,1
+357,0100000US,United States,00,Total for all sectors,004,Equally male/female,029,Non-Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,570,,961784,,5349,,168890,,1
+358,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,001,All firms,2018,577835,,863324218,,5090065,,175800264,,1
+359,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,611,Firms with no employees,2018,62536,,32019324,,0,,4374707,,1
+360,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,292977,,154725782,,624476,,21221325,,1
+361,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,110818,,121526481,,729216,,22209796,,1
+362,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,630,Firms with 10 to 19 employees,2018,65993,,117968761,,892808,,26272532,,1
+363,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,641,Firms with 20 to 49 employees,2018,34564,,142589783,,1003606,,34135301,,1
+364,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,642,Firms with 50 to 99 employees,2018,7315,,84333565,,494239,,18545066,,1
+365,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,651,Firms with 100 to 249 employees,2018,2597,,91315680,,374076,,17882511,,1
+366,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,652,Firms with 250 to 499 employees,2018,573,,36680460,,212157,,9659039,,1
+367,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,001,Total,657,Firms with 500 employees or more,2018,462,,82164381,,759488,,21499987,,1
+368,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,001,All firms,2018,154984,,171448705,,1128494,,38950283,,1
+369,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,611,Firms with no employees,2018,17857,,6439164,,0,,1179191,,1
+370,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,82521,,35947403,,171478,,5703790,,1
+371,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,28800,,27557633,,189992,,5761802,,1
+372,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,630,Firms with 10 to 19 employees,2018,15952,,22856828,,212194,,6022136,,1
+373,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,641,Firms with 20 to 49 employees,2018,7494,,28021113,,216112,,7397239,,1
+375,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,651,Firms with 100 to 249 employees,2018,598,,12498323,,88228,,3950018,,1
+376,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,652,Firms with 250 to 499 employees,2018,127,,5449738,,46161,,1853083,,1
+377,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,001,Total,657,Firms with 500 employees or more,2018,101,,11611869,,101848,,3504874,,1
+378,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,001,All firms,2018,336622,,586918276,,3207600,,115157899,,1
+379,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,611,Firms with no employees,2018,36276,,19163586,,0,,2534417,,1
+380,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,168300,,97604642,,359038,,12926932,,1
+381,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,64899,,77215756,,426920,,13496961,,1
+382,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,630,Firms with 10 to 19 employees,2018,39238,,78987444,,535537,,16655553,,1
+383,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,641,Firms with 20 to 49 employees,2018,20874,,93309484,,611240,,22057807,,1
+384,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,642,Firms with 50 to 99 employees,2018,4640,,56718946,,313368,,12744056,,1
+385,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,651,Firms with 100 to 249 employees,2018,1714,,74909456,,245358,,12476071,,1
+386,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,652,Firms with 250 to 499 employees,2018,345,,26917187,,126459,,6254297,,1
+387,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,001,Total,657,Firms with 500 employees or more,2018,337,,62091776,,589680,,16011805,,1
+388,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,001,All firms,2018,86231,,104957236,,753970,,21692082,,1
+389,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,611,Firms with no employees,2018,8402,,6416574,,0,,661099,,1
+390,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,42156,,21173738,,93960,,2590602,,1
+391,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,17118,,16753092,,112304,,2951033,,1
+392,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,630,Firms with 10 to 19 employees,2018,10805,,16124490,,145077,,3594843,,1
+393,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,641,Firms with 20 to 49 employees,2018,6196,,21259185,,176254,,4680255,,1
+394,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,642,Firms with 50 to 99 employees,2018,1145,,6547986,,78390,,2222861,,1
+395,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,651,Firms with 100 to 249 employees,2018,286,,3907901,,40489,,1456423,,1
+397,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,001,Total,657,Firms with 500 employees or more,2018,25,,8460736,,67959,,1983307,,1
+398,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,001,Total,001,All firms,2018,3966,,6179733,,35160,,1205136,,1
+399,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,001,Total,611,Firms with no employees,2018,251,,59357,,0,,12382,,1
+400,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,2215,,642036,,4538,,142512,,1
+401,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,663,,501449,,4257,,116184,,1
+405,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,001,Total,657,Firms with 500 employees or more,2018,5,,198550,,5951,,74968,,1
+406,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,001,Total,001,All firms,2018,891,,1171556,,6884,,223576,,1
+407,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,79,,20435,,0,,3227,,1
+408,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,409,,183479,,834,,33018,,1
+411,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,001,Total,641,Firms with 20 to 49 employees,2018,40,,144802,,1199,,30206,,1
+412,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,001,Total,642,Firms with 50 to 99 employees,2018,3,,151220,,305,,14496,,1
+415,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,4198,,2598220,,25370,,724591,,1
+416,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,001,Total,611,Firms with no employees,2018,640,,115889,,0,,26531,,1
+417,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,001,Total,612,Firms with 1 to 4 employees,2018,2242,,704186,,4341,,158202,,1
+418,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,001,Total,620,Firms with 5 to 9 employees,2018,650,,558235,,4229,,131280,,1
+419,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,001,Total,630,Firms with 10 to 19 employees,2018,497,,735685,,6479,,207880,,1
+423,0100000US,United States,00,Total for all sectors,002,Female,020,Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,1646,,648165,,9070,,199973,,1
+424,0100000US,United States,00,Total for all sectors,003,Male,020,Hispanic,50,American Indian and Alaska Native,001,Total,001,All firms,2018,2257,,1744477,,14780,,470898,,1
+427,0100000US,United States,00,Total for all sectors,002,Female,020,Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,001,All firms,2018,536,,360996,,3842,,83255,,1
+429,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,001,All firms,2018,5368,,9673140,,42211,,1795207,,1
+430,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,699,,214222,,0,,43230,,1
+432,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,620,Firms with 5 to 9 employees,2018,788,,857242,,5006,,192950,,1
+433,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,630,Firms with 10 to 19 employees,2018,557,,1068323,,7699,,320142,,1
+437,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,652,Firms with 250 to 499 employees,2018,5,,146617,,1251,,61338,,1
+440,0100000US,United States,00,Total for all sectors,003,Male,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,001,All firms,2018,3720,,7556398,,30098,,1360945,,1
+453,0100000US,United States,00,Total for all sectors,003,Male,020,Hispanic,60,Asian,001,Total,001,All firms,2018,2240,,2987155,,20229,,668094,,1
+456,0100000US,United States,00,Total for all sectors,001,Total,028,Equally Hispanic/non-Hispanic,60,Asian,001,Total,611,Firms with no employees,2018,13,,6489,,0,,390,,1
+462,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,001,All firms,2018,573712,,857039100,,5054071,,174560715,,1
+463,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,611,Firms with no employees,2018,62272,,31953477,,0,,4361936,,1
+464,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,612,Firms with 1 to 4 employees,2018,290686,,154042105,,619775,,21075906,,1
+465,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,620,Firms with 5 to 9 employees,2018,110147,,121009457,,724918,,22092364,,1
+466,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,630,Firms with 10 to 19 employees,2018,65443,,117165328,,886246,,26049751,,1
+467,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,641,Firms with 20 to 49 employees,2018,34319,,140337580,,995197,,33630841,,1
+468,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,642,Firms with 50 to 99 employees,2018,7218,,82569181,,488166,,18383348,,1
+469,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,651,Firms with 100 to 249 employees,2018,2597,,91315680,,374076,,17882511,,1
+470,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,652,Firms with 250 to 499 employees,2018,573,,36680460,,212157,,9659039,,1
+471,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,001,Total,657,Firms with 500 employees or more,2018,458,,81965832,,753536,,21425020,,1
+472,0100000US,United States,00,Total for all sectors,002,Female,029,Non-Hispanic,60,Asian,001,Total,001,All firms,2018,153323,,168318727,,1113937,,38423559,,1
+473,0100000US,United States,00,Total for all sectors,003,Male,029,Non-Hispanic,60,Asian,001,Total,001,All firms,2018,334342,,583914665,,3187311,,114488574,,1
+474,0100000US,United States,00,Total for all sectors,004,Equally male/female,029,Non-Hispanic,60,Asian,001,Total,001,All firms,2018,86050,,104805708,,752823,,21648582,,1
+475,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,001,All firms,2018,6653,,11177012,,54446,,2127545,,1
+476,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,809,,243897,,0,,47688,,1
+478,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,620,Firms with 5 to 9 employees,2018,1080,,1123597,,7080,,257696,,1
+479,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,630,Firms with 10 to 19 employees,2018,595,,1145644,,8359,,354826,,1
+483,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,652,Firms with 250 to 499 employees,2018,5,,146617,,1251,,61338,,1
+484,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,657,Firms with 500 employees or more,2018,4,,452767,,2822,,88342,,1
+486,0100000US,United States,00,Total for all sectors,002,Female,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,229,,79929,,0,,14777,,1
+487,0100000US,United States,00,Total for all sectors,002,Female,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,612,Firms with 1 to 4 employees,2018,1105,,298642,,2300,,61972,,1
+495,0100000US,United States,00,Total for all sectors,003,Male,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,001,All firms,2018,4468,,8699273,,38491,,1610028,,1
+496,0100000US,United States,00,Total for all sectors,003,Male,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,560,,161581,,0,,32330,,1
+498,0100000US,United States,00,Total for all sectors,003,Male,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,620,Firms with 5 to 9 employees,2018,694,,756955,,4737,,183496,,1
+499,0100000US,United States,00,Total for all sectors,003,Male,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,630,Firms with 10 to 19 employees,2018,443,,904989,,6061,,264597,,1
+506,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,20,,2386,,0,,581,,1
+507,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,70,Native Hawaiian and Other Pacific Islander,001,Total,612,Firms with 1 to 4 employees,2018,56,,9264,,171,,2350,,1
+513,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,611,Firms with no employees,2018,111,,29675,,0,,4458,,1
+514,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,70,Native Hawaiian and Other Pacific Islander,001,Total,612,Firms with 1 to 4 employees,2018,702,,253095,,1719,,45622,,1
+698,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,002,Veteran,001,All firms,2018,1613,,1202089,,11158,,448541,,1
+699,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,002,Veteran,001,All firms,2018,11199,,11991064,,119497,,4002235,,1
+701,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,002,Veteran,001,All firms,2018,634,,191307,,1450,,56888,,1
+702,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,002,Veteran,001,All firms,2018,12553,,13487076,,142565,,4611082,,1
+703,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,002,Veteran,001,All firms,2018,2554,,2909456,,16996,,828659,,1
+705,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,002,Veteran,612,Firms with 1 to 4 employees,2018,1601,,589194,,3280,,103537,,1
+706,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,002,Veteran,620,Firms with 5 to 9 employees,2018,284,,211837,,1936,,78815,,1
+711,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,002,Veteran,652,Firms with 250 to 499 employees,2018,2,,184875,,1119,,85620,,1
+713,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,002,Veteran,001,All firms,2018,2277,,2804668,,16165,,810932,,1
+714,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,002,Veteran,001,All firms,2018,228,,78305,,704,,25258,,1
+715,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,002,Veteran,001,All firms,2018,2325,,2831150,,16293,,803401,,1
+716,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,001,All firms,2018,6813,,9573235,,52673,,2241942,,1
+717,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,611,Firms with no employees,2018,704,,217583,,0,,48744,,1
+718,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,612,Firms with 1 to 4 employees,2018,3396,,1297348,,7274,,249448,,1
+719,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,620,Firms with 5 to 9 employees,2018,1265,,1066602,,8031,,292284,,1
+720,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,630,Firms with 10 to 19 employees,2018,879,,1244376,,11628,,389526,,1
+721,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,641,Firms with 20 to 49 employees,2018,497,,3031857,,14048,,648586,,1
+723,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,651,Firms with 100 to 249 employees,2018,13,,593259,,2024,,197035,,1
+724,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,652,Firms with 250 to 499 employees,2018,3,,185605,,1328,,79660,,1
+725,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,002,Veteran,657,Firms with 500 employees or more,2018,4,,503353,,5397,,171078,,1
+726,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,002,Veteran,001,All firms,2018,630,,589502,,5491,,134569,,1
+727,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,002,Veteran,001,All firms,2018,6108,,8946186,,46455,,2098857,,1
+728,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,002,Veteran,001,All firms,2018,76,,37546,,727,,8516,,1
+730,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,002,Veteran,001,All firms,2018,6608,,9495116,,52204,,2220669,,1
+734,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,002,Veteran,620,Firms with 5 to 9 employees,2018,26,,38159,,149,,14860,,1
+738,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,002,Veteran,651,Firms with 100 to 249 employees,2018,3,,92449,,648,,30514,,1
+740,0100000US,United States,00,Total for all sectors,002,Female,001,Total,70,Native Hawaiian and Other Pacific Islander,002,Veteran,001,All firms,2018,10,,42756,,216,,17474,,1
+790,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,001,All firms,2018,13186,,13678383,,144015,,4667970,,1
+791,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,611,Firms with no employees,2018,1670,,363632,,0,,85293,,1
+792,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,612,Firms with 1 to 4 employees,2018,7508,,1982623,,13844,,463321,,1
+793,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,620,Firms with 5 to 9 employees,2018,1714,,1300399,,11486,,408079,,1
+794,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,630,Firms with 10 to 19 employees,2018,1018,,1353965,,13441,,499691,,1
+795,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,641,Firms with 20 to 49 employees,2018,748,,2266301,,23971,,780739,,1
+796,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,642,Firms with 50 to 99 employees,2018,366,,1980967,,26332,,635319,,1
+797,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,651,Firms with 100 to 249 employees,2018,79,,1948553,,13825,,607139,,1
+799,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,002,Veteran,657,Firms with 500 employees or more,2018,13,,544468,,10958,,281063,,1
+819,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,003,Equally veteran/nonveteran,001,All firms,2018,1908,,1615859,,15907,,443011,,1
+820,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,003,Equally veteran/nonveteran,611,Firms with no employees,2018,242,,61184,,0,,14476,,1
+821,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,003,Equally veteran/nonveteran,612,Firms with 1 to 4 employees,2018,1024,,265310,,2146,,44842,,1
+902,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,003,Equally veteran/nonveteran,001,All firms,2018,1326,,1399670,,12928,,435961,,1
+903,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,003,Equally veteran/nonveteran,001,All firms,2018,1936,,2512566,,15524,,620279,,1
+905,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,003,Equally veteran/nonveteran,611,Firms with no employees,2018,7,,1562,,0,,398,,1
+906,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,003,Equally veteran/nonveteran,612,Firms with 1 to 4 employees,2018,8,,2081,,12,,446,,1
+967,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,003,Equally veteran/nonveteran,001,All firms,2018,1678,,1576662,,15442,,435567,,1
+968,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,003,Equally veteran/nonveteran,001,All firms,2018,224,,224577,,2381,,80534,,1
+969,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,003,Equally veteran/nonveteran,611,Firms with no employees,2018,19,,2879,,0,,544,,1
+976,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,003,Equally veteran/nonveteran,001,All firms,2018,119,,130249,,2048,,58927,,1
+978,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,003,Equally veteran/nonveteran,001,All firms,2018,171,,182906,,2262,,68779,,1
+979,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,003,Equally veteran/nonveteran,001,All firms,2018,1936,,2512566,,15524,,620279,,1
+981,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,003,Equally veteran/nonveteran,612,Firms with 1 to 4 employees,2018,1018,,550802,,2116,,84195,,1
+982,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,003,Equally veteran/nonveteran,620,Firms with 5 to 9 employees,2018,429,,344911,,2998,,98438,,1
+989,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,001,All firms,2018,109456,,112718157,,1028897,,31828248,,1
+990,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,611,Firms with no employees,2018,15125,,5438005,,0,,895275,,1
+991,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,612,Firms with 1 to 4 employees,2018,57802,,19421048,,112707,,4074801,,1
+992,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,620,Firms with 5 to 9 employees,2018,17102,,13598791,,112470,,3769316,,1
+993,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,630,Firms with 10 to 19 employees,2018,10520,,14433534,,141653,,4624849,,1
+994,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,641,Firms with 20 to 49 employees,2018,5570,,17934267,,171930,,5390449,,1
+995,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,642,Firms with 50 to 99 employees,2018,2220,,13985377,,151609,,4040751,,1
+996,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,651,Firms with 100 to 249 employees,2018,765,,11746482,,110240,,3229450,,1
+997,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,652,Firms with 250 to 499 employees,2018,235,,4903361,,86455,,1577459,,1
+998,0100000US,United States,00,Total for all sectors,001,Total,001,Total,40,Black or African American,004,Nonveteran,657,Firms with 500 employees or more,2018,119,,11257293,,141832,,4225899,,1
+999,0100000US,United States,00,Total for all sectors,002,Female,001,Total,40,Black or African American,004,Nonveteran,001,All firms,2018,41518,,29226662,,388336,,10573070,,1
+1000,0100000US,United States,00,Total for all sectors,003,Male,001,Total,40,Black or African American,004,Nonveteran,001,All firms,2018,58144,,75893179,,528932,,18664310,,1
+1001,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,40,Black or African American,004,Nonveteran,001,All firms,2018,9794,,7598316,,111629,,2590867,,1
+1002,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,40,Black or African American,004,Nonveteran,001,All firms,2018,8666,,8423331,,44342,,1500250,,1
+1003,0100000US,United States,00,Total for all sectors,001,Total,028,Equally Hispanic/non-Hispanic,40,Black or African American,004,Nonveteran,001,All firms,2018,212,,154377,,1808,,61028,,1
+1004,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,40,Black or African American,004,Nonveteran,001,All firms,2018,100578,,104140449,,982746,,30266970,,1
+1005,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,21657,,30563470,,180879,,7332069,,1
+1006,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,611,Firms with no employees,2018,3011,,971741,,0,,149913,,1
+1007,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,612,Firms with 1 to 4 employees,2018,11136,,3783797,,20684,,723499,,1
+1008,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,620,Firms with 5 to 9 employees,2018,3876,,4158886,,25294,,898539,,1
+1009,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,630,Firms with 10 to 19 employees,2018,2121,,4319110,,28301,,1065076,,1
+1010,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,641,Firms with 20 to 49 employees,2018,997,,5621822,,29750,,1369826,,1
+1011,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,642,Firms with 50 to 99 employees,2018,301,,3448708,,22055,,762156,,1
+1012,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,651,Firms with 100 to 249 employees,2018,176,,4355978,,23196,,1132700,,1
+1013,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,652,Firms with 250 to 499 employees,2018,24,,1632051,,7970,,407684,,1
+1014,0100000US,United States,00,Total for all sectors,001,Total,001,Total,50,American Indian and Alaska Native,004,Nonveteran,657,Firms with 500 employees or more,2018,15,,2271378,,23628,,822678,,1
+1090,0100000US,United States,00,Total for all sectors,003,Male,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,001,All firms,2018,4016,,7363117,,31491,,1294623,,1
+1091,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,001,All firms,2018,84,,70377,,613,,19880,,1
+1093,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,001,All firms,2018,5012,,8312085,,37489,,1470446,,1
+1154,0100000US,United States,00,Total for all sectors,002,Female,001,Total,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,8708,,10072821,,70923,,2652428,,1
+1155,0100000US,United States,00,Total for all sectors,003,Male,001,Total,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,12178,,19449343,,105120,,4514992,,1
+1156,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,773,,1041306,,4835,,164649,,1
+1157,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,3918,,2478243,,24547,,687578,,1
+1159,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,50,American Indian and Alaska Native,004,Nonveteran,001,All firms,2018,17711,,28081034,,156317,,6643525,,1
+1160,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,001,All firms,2018,569084,,851238417,,5021868,,172938044,,1
+1161,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,611,Firms with no employees,2018,61604,,31747283,,0,,4320958,,1
+1162,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,612,Firms with 1 to 4 employees,2018,288561,,152877632,,615086,,20887682,,1
+1163,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,620,Firms with 5 to 9 employees,2018,109123,,120114968,,718187,,21819074,,1
+1164,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,630,Firms with 10 to 19 employees,2018,65053,,116675546,,880388,,25861433,,1
+1165,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,641,Firms with 20 to 49 employees,2018,33919,,138975205,,985212,,33284239,,1
+1166,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,642,Firms with 50 to 99 employees,2018,7224,,82597918,,487298,,18275605,,1
+1167,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,651,Firms with 100 to 249 employees,2018,2575,,90266800,,371064,,17625133,,1
+1168,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,652,Firms with 250 to 499 employees,2018,568,,36322036,,210541,,9535010,,1
+1169,0100000US,United States,00,Total for all sectors,001,Total,001,Total,60,Asian,004,Nonveteran,657,Firms with 500 employees or more,2018,457,,81661029,,754091,,21328909,,1
+1170,0100000US,United States,00,Total for all sectors,002,Female,001,Total,60,Asian,004,Nonveteran,001,All firms,2018,154353,,170859203,,1123003,,38815714,,1
+1171,0100000US,United States,00,Total for all sectors,003,Male,001,Total,60,Asian,004,Nonveteran,001,All firms,2018,329904,,576859194,,3158550,,112874724,,1
+1172,0100000US,United States,00,Total for all sectors,004,Equally male/female,001,Total,60,Asian,004,Nonveteran,001,All firms,2018,84829,,103520020,,740315,,21247605,,1
+1173,0100000US,United States,00,Total for all sectors,001,Total,020,Hispanic,60,Asian,004,Nonveteran,001,All firms,2018,3761,,6101614,,34691,,1183864,,1
+1175,0100000US,United States,00,Total for all sectors,001,Total,029,Non-Hispanic,60,Asian,004,Nonveteran,001,All firms,2018,565167,,845031418,,4986343,,171719767,,1
+1176,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,001,All firms,2018,6145,,9719642,,46707,,1755004,,1
+1177,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,611,Firms with no employees,2018,709,,225744,,0,,45566,,1
+1179,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,620,Firms with 5 to 9 employees,2018,1055,,1085438,,6930,,242836,,1
+1180,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,630,Firms with 10 to 19 employees,2018,510,,945804,,7014,,276235,,1
+1184,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,652,Firms with 250 to 499 employees,2018,2,,115285,,952,,45549,,1
+1185,0100000US,United States,00,Total for all sectors,001,Total,001,Total,70,Native Hawaiian and Other Pacific Islander,004,Nonveteran,657,Firms with 500 employees or more,2018,4,,452767,,2822,,88342,,1
