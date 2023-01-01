@@ -5,8 +5,8 @@
 1281,Agriculture/Forestry/Fishing/Hunting,White,U
 1282,Agriculture/Forestry/Fishing/Hunting,White,U
 1283,Agriculture/Forestry/Fishing/Hunting,White,W
-1286,Agriculture/Forestry/Fishing/Hunting,White,R
-1287,Agriculture/Forestry/Fishing/Hunting,White,U
+1284,Agriculture/Forestry/Fishing/Hunting,White,U
+1287,Agriculture/Forestry/Fishing/Hunting,White,R
 1288,Agriculture/Forestry/Fishing/Hunting,White,U
 1290,Agriculture/Forestry/Fishing/Hunting,White,T
 1294,Agriculture/Forestry/Fishing/Hunting,White,R
@@ -34,7 +34,7 @@
 1330,Agriculture/Forestry/Fishing/Hunting,White,O
 1332,Agriculture/Forestry/Fishing/Hunting,White,I
 1362,Agriculture/Forestry/Fishing/Hunting,Black or African American,I
-1366,Agriculture/Forestry/Fishing/Hunting,Black or African American,B
+1367,Agriculture/Forestry/Fishing/Hunting,Black or African American,B
 1376,Agriculture/Forestry/Fishing/Hunting,American Indian and Alaska Native,B
 1396,Agriculture/Forestry/Fishing/Hunting,Asian,I
 1402,Agriculture/Forestry/Fishing/Hunting,Asian,L
@@ -43,8 +43,8 @@
 1421,Agriculture/Forestry/Fishing/Hunting,White,W
 1422,Agriculture/Forestry/Fishing/Hunting,White,U
 1423,Agriculture/Forestry/Fishing/Hunting,White,U
-1424,Agriculture/Forestry/Fishing/Hunting,White,W
-1427,Agriculture/Forestry/Fishing/Hunting,White,O
+1424,Agriculture/Forestry/Fishing/Hunting,White,O
+1425,Agriculture/Forestry/Fishing/Hunting,White,W
 1428,Agriculture/Forestry/Fishing/Hunting,White,U
 1429,Agriculture/Forestry/Fishing/Hunting,White,U
 1430,Agriculture/Forestry/Fishing/Hunting,White,W
@@ -101,15 +101,15 @@
 1725,Mining/Quarrying/Oil&Gas Extraction,White,W
 1726,Mining/Quarrying/Oil&Gas Extraction,White,W
 1728,Mining/Quarrying/Oil&Gas Extraction,White,W
-1769,Mining/Quarrying/Oil&Gas Extraction,White,W
 1770,Mining/Quarrying/Oil&Gas Extraction,White,W
-1771,Mining/Quarrying/Oil&Gas Extraction,White,U
+1771,Mining/Quarrying/Oil&Gas Extraction,White,W
+1772,Mining/Quarrying/Oil&Gas Extraction,White,U
 1773,Mining/Quarrying/Oil&Gas Extraction,Black or African American,K
 1776,Mining/Quarrying/Oil&Gas Extraction,Black or African American,I
-1782,Agriculture/Forestry/Fishing/Hunting,White,W
-1783,Agriculture/Forestry/Fishing/Hunting,White,U
-1784,Agriculture/Forestry/Fishing/Hunting,White,W
-1785,Agriculture/Forestry/Fishing/Hunting,White,U
+1782,Agriculture/Forestry/Fishing/Hunting,White,U
+1783,Agriculture/Forestry/Fishing/Hunting,White,W
+1784,Agriculture/Forestry/Fishing/Hunting,White,U
+1785,Agriculture/Forestry/Fishing/Hunting,White,W
 1786,Agriculture/Forestry/Fishing/Hunting,White,U
 1787,Agriculture/Forestry/Fishing/Hunting,White,W
 1790,Agriculture/Forestry/Fishing/Hunting,White,R
@@ -124,7 +124,7 @@
 1831,Agriculture/Forestry/Fishing/Hunting,Black or African American,B
 1860,Mining/Quarrying/Oil&Gas Extraction,Black or African American,K
 1862,Mining/Quarrying/Oil&Gas Extraction,Black or African American,I
-1865,Agriculture/Forestry/Fishing/Hunting,Black or African American,B
+1866,Agriculture/Forestry/Fishing/Hunting,Black or African American,B
 1906,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
 1907,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,K
 1910,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,L
@@ -142,7 +142,7 @@
 1962,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,M
 1966,Agriculture/Forestry/Fishing/Hunting,Native Hawaiian and Other Pacific Islander,L
 1968,Agriculture/Forestry/Fishing/Hunting,Native Hawaiian and Other Pacific Islander,L
-1990,Agriculture/Forestry/Fishing/Hunting,White,K
+1987,Agriculture/Forestry/Fishing/Hunting,White,K
 1994,Agriculture/Forestry/Fishing/Hunting,White,O
 2008,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
 2009,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,K
@@ -155,7 +155,7 @@
 2049,Mining/Quarrying/Oil&Gas Extraction,Asian,I
 2050,Mining/Quarrying/Oil&Gas Extraction,Asian,L
 2052,Mining/Quarrying/Oil&Gas Extraction,Asian,K
-2097,Mining/Quarrying/Oil&Gas Extraction,Asian,L
+2098,Mining/Quarrying/Oil&Gas Extraction,Asian,L
 2103,Mining/Quarrying/Oil&Gas Extraction,Asian,R
 2104,Mining/Quarrying/Oil&Gas Extraction,Asian,I
 2105,Mining/Quarrying/Oil&Gas Extraction,Asian,L
@@ -170,7 +170,7 @@
 2182,Utilities,White,K
 2183,Utilities,White,L
 2185,Utilities,White,O
-2188,Utilities,White,R
+2189,Utilities,White,R
 2219,Utilities,White,I
 2223,Utilities,White,R
 2224,Utilities,White,I
@@ -197,8 +197,8 @@
 2515,Mining/Quarrying/Oil&Gas Extraction,White,R
 2518,Mining/Quarrying/Oil&Gas Extraction,White,R
 2521,Mining/Quarrying/Oil&Gas Extraction,White,T
-2525,Mining/Quarrying/Oil&Gas Extraction,White,W
-2526,Mining/Quarrying/Oil&Gas Extraction,White,U
+2523,Mining/Quarrying/Oil&Gas Extraction,White,U
+2526,Mining/Quarrying/Oil&Gas Extraction,White,W
 2527,Mining/Quarrying/Oil&Gas Extraction,White,U
 2528,Mining/Quarrying/Oil&Gas Extraction,White,U
 2530,Mining/Quarrying/Oil&Gas Extraction,White,W
@@ -221,7 +221,7 @@
 2592,Utilities,White,U
 2593,Utilities,White,T
 2595,Utilities,White,U
-2596,Utilities,White,U
+2597,Utilities,White,U
 2600,Utilities,White,W
 2602,Mining/Quarrying/Oil&Gas Extraction,Asian,L
 2603,Mining/Quarrying/Oil&Gas Extraction,Asian,R
@@ -233,8 +233,8 @@
 2629,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,K
 2633,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
 2634,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,M
-2635,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,L
-2636,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
+2635,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
+2636,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,L
 2638,Mining/Quarrying/Oil&Gas Extraction,American Indian and Alaska Native,R
 2640,Utilities,White,T
 2641,Utilities,White,L
@@ -245,12 +245,12 @@
 2647,Utilities,White,R
 2648,Utilities,White,W
 2649,Utilities,White,U
-2650,Utilities,White,T
-2652,Utilities,White,U
+2650,Utilities,White,U
+2651,Utilities,White,T
 2653,Utilities,White,U
-2681,Mining/Quarrying/Oil&Gas Extraction,Asian,I
-2682,Mining/Quarrying/Oil&Gas Extraction,Asian,L
-2684,Mining/Quarrying/Oil&Gas Extraction,Asian,K
+2681,Mining/Quarrying/Oil&Gas Extraction,Asian,K
+2682,Mining/Quarrying/Oil&Gas Extraction,Asian,I
+2683,Mining/Quarrying/Oil&Gas Extraction,Asian,L
 2687,Mining/Quarrying/Oil&Gas Extraction,Asian,L
 2696,Utilities,White,W
 2698,Utilities,White,L
@@ -276,9 +276,9 @@
 2809,Construction,Asian,T
 2811,Construction,Asian,T
 2841,Utilities,White,R
-2842,Utilities,White,K
-2844,Utilities,White,M
-2845,Utilities,White,L
+2842,Utilities,White,L
+2843,Utilities,White,K
+2845,Utilities,White,M
 2846,Construction,White,W
 2847,Construction,White,W
 2848,Construction,White,W
@@ -328,7 +328,7 @@
 2958,Construction,White,W
 2961,Construction,White,W
 2962,Construction,White,U
-3002,Construction,White,W
+3001,Construction,White,W
 3003,Construction,White,W
 3004,Construction,White,W
 3005,Construction,White,W
@@ -362,8 +362,8 @@
 3069,Construction,Asian,U
 3070,Construction,Asian,U
 3071,Construction,Asian,U
-3072,Construction,Asian,W
-3075,Construction,Asian,T
+3072,Construction,Asian,T
+3073,Construction,Asian,W
 3077,Construction,Asian,W
 3100,Utilities,White,O
 3101,Utilities,White,K
@@ -373,8 +373,8 @@
 3109,Construction,White,W
 3110,Construction,Black or African American,W
 3112,Construction,Black or African American,U
-3113,Construction,Black or African American,U
-3115,Construction,Black or African American,U
+3114,Construction,Black or African American,U
+3116,Construction,Black or African American,U
 3117,Construction,Black or African American,T
 3119,Construction,Black or African American,M
 3120,Construction,Native Hawaiian and Other Pacific Islander,U
@@ -394,8 +394,8 @@
 3196,Construction,Black or African American,U
 3197,Construction,Black or African American,U
 3199,Construction,Black or African American,U
-3201,Construction,Black or African American,T
-3203,Construction,Black or African American,L
+3200,Construction,Black or African American,L
+3202,Construction,Black or African American,T
 3204,Construction,Black or African American,R
 3205,Construction,Black or African American,L
 3210,Construction,Native Hawaiian and Other Pacific Islander,I
@@ -419,10 +419,10 @@
 3304,Construction,Black or African American,M
 3346,Construction,Black or African American,U
 3347,Construction,Black or African American,W
-3348,Construction,Black or African American,R
-3349,Construction,American Indian and Alaska Native,W
-3350,Construction,American Indian and Alaska Native,R
-3351,Construction,American Indian and Alaska Native,U
+3348,Construction,American Indian and Alaska Native,U
+3349,Construction,Black or African American,R
+3350,Construction,American Indian and Alaska Native,W
+3351,Construction,American Indian and Alaska Native,R
 3352,Construction,American Indian and Alaska Native,T
 3353,Construction,American Indian and Alaska Native,U
 3355,Construction,American Indian and Alaska Native,T
@@ -454,7 +454,7 @@
 3488,Utilities,Black or African American,K
 3489,Utilities,Black or African American,K
 3490,Utilities,American Indian and Alaska Native,O
-3498,Construction,American Indian and Alaska Native,T
+3499,Construction,American Indian and Alaska Native,T
 3505,Construction,American Indian and Alaska Native,T
 3507,Construction,American Indian and Alaska Native,W
 3508,Construction,American Indian and Alaska Native,R
@@ -507,10 +507,10 @@
 3718,Manufacturing,Black or African American,R
 3719,Manufacturing,Black or African American,R
 3720,Manufacturing,Black or African American,T
-3721,Manufacturing,Black or African American,T
+3721,Manufacturing,Black or African American,U
 3722,Manufacturing,Black or African American,T
 3723,Manufacturing,Black or African American,T
-3724,Manufacturing,Black or African American,U
+3724,Manufacturing,Black or African American,T
 3725,Manufacturing,Black or African American,T
 3727,Manufacturing,Black or African American,O
 3729,Construction,White,W
@@ -521,9 +521,9 @@
 3761,Manufacturing,Black or African American,L
 3763,Manufacturing,Black or African American,O
 3765,Manufacturing,Black or African American,U
-3766,Manufacturing,Black or African American,L
-3767,Manufacturing,Black or African American,O
-3768,Manufacturing,Black or African American,R
+3766,Manufacturing,Black or African American,R
+3767,Manufacturing,Black or African American,L
+3768,Manufacturing,Black or African American,O
 3769,Manufacturing,Black or African American,R
 3770,Manufacturing,Black or African American,R
 3771,Manufacturing,Black or African American,T
@@ -591,9 +591,9 @@
 4032,Manufacturing,American Indian and Alaska Native,R
 4033,Manufacturing,American Indian and Alaska Native,R
 4034,Manufacturing,American Indian and Alaska Native,R
-4051,Construction,Black or African American,U
-4052,Construction,Black or African American,W
-4053,Construction,Black or African American,R
+4051,Construction,Black or African American,R
+4052,Construction,Black or African American,U
+4053,Construction,Black or African American,W
 4054,Construction,Black or African American,T
 4055,Construction,Black or African American,W
 4056,Construction,American Indian and Alaska Native,W
@@ -615,8 +615,8 @@
 4107,Construction,Asian,U
 4108,Construction,Asian,U
 4109,Construction,Asian,U
-4110,Construction,Asian,W
-4113,Construction,Asian,T
+4110,Construction,Asian,T
+4111,Construction,Asian,W
 4133,Manufacturing,American Indian and Alaska Native,U
 4135,Manufacturing,American Indian and Alaska Native,O
 4136,Manufacturing,American Indian and Alaska Native,O
@@ -722,8 +722,8 @@
 4489,Manufacturing,Native Hawaiian and Other Pacific Islander,L
 4493,Manufacturing,Native Hawaiian and Other Pacific Islander,L
 4494,Manufacturing,Native Hawaiian and Other Pacific Islander,R
-4495,Manufacturing,Native Hawaiian and Other Pacific Islander,I
-4497,Manufacturing,Native Hawaiian and Other Pacific Islander,T
+4496,Manufacturing,Native Hawaiian and Other Pacific Islander,I
+4498,Manufacturing,Native Hawaiian and Other Pacific Islander,T
 4518,Manufacturing,Asian,W
 4519,Manufacturing,Asian,T
 4520,Manufacturing,Asian,U
@@ -779,7 +779,7 @@
 4637,Manufacturing,Native Hawaiian and Other Pacific Islander,L
 4638,Manufacturing,Native Hawaiian and Other Pacific Islander,M
 4644,Manufacturing,Asian,I
-4649,Manufacturing,Asian,K
+4650,Manufacturing,Asian,K
 4670,Manufacturing,White,W
 4671,Manufacturing,Black or African American,R
 4672,Manufacturing,Black or African American,K
@@ -788,8 +788,8 @@
 4676,Manufacturing,Black or African American,L
 4677,Manufacturing,Black or African American,O
 4680,Manufacturing,Black or African American,R
-4683,Manufacturing,Black or African American,R
-4684,Manufacturing,American Indian and Alaska Native,O
+4684,Manufacturing,Black or African American,R
+4685,Manufacturing,American Indian and Alaska Native,O
 4687,Manufacturing,American Indian and Alaska Native,K
 4688,Manufacturing,Native Hawaiian and Other Pacific Islander,I
 4716,Manufacturing,American Indian and Alaska Native,L
@@ -798,13 +798,13 @@
 4720,Manufacturing,American Indian and Alaska Native,O
 4731,Manufacturing,Native Hawaiian and Other Pacific Islander,T
 4732,Manufacturing,Native Hawaiian and Other Pacific Islander,I
-4735,Manufacturing,Native Hawaiian and Other Pacific Islander,L
-4736,Manufacturing,Native Hawaiian and Other Pacific Islander,M
+4733,Manufacturing,Native Hawaiian and Other Pacific Islander,M
+4736,Manufacturing,Native Hawaiian and Other Pacific Islander,L
 4737,Manufacturing,Native Hawaiian and Other Pacific Islander,M
 4740,Manufacturing,Native Hawaiian and Other Pacific Islander,L
 4741,Manufacturing,Native Hawaiian and Other Pacific Islander,T
 4742,Manufacturing,Native Hawaiian and Other Pacific Islander,I
-4775,Manufacturing,Native Hawaiian and Other Pacific Islander,M
+4776,Manufacturing,Native Hawaiian and Other Pacific Islander,M
 4780,Manufacturing,Native Hawaiian and Other Pacific Islander,M
 4781,Manufacturing,Native Hawaiian and Other Pacific Islander,M
 5061,Manufacturing,White,W
@@ -892,12 +892,12 @@
 5300,Wholesale trade,White,W
 5301,Wholesale trade,Asian,W
 5302,Wholesale trade,Asian,W
-5303,Wholesale trade,Asian,W
+5304,Wholesale trade,Asian,W
 5337,Wholesale trade,White,W
 5339,Wholesale trade,White,W
 5340,Wholesale trade,White,W
-5342,Wholesale trade,White,W
 5343,Wholesale trade,White,W
+5344,Wholesale trade,White,W
 5345,Wholesale trade,White,W
 5348,Wholesale trade,White,U
 5349,Wholesale trade,White,U
@@ -920,7 +920,7 @@
 5416,Wholesale trade,Black or African American,R
 5418,Wholesale trade,Black or African American,R
 5419,Wholesale trade,American Indian and Alaska Native,M
-5442,Wholesale trade,White,U
+5441,Wholesale trade,White,U
 5443,Wholesale trade,White,U
 5444,Wholesale trade,White,W
 5445,Wholesale trade,White,W
@@ -964,8 +964,8 @@
 5568,Wholesale trade,Black or African American,T
 5569,Wholesale trade,Black or African American,T
 5571,Wholesale trade,Black or African American,U
-5572,Wholesale trade,Black or African American,T
-5573,Wholesale trade,Black or African American,U
+5573,Wholesale trade,Black or African American,T
+5574,Wholesale trade,Black or African American,U
 5601,Wholesale trade,White,W
 5602,Wholesale trade,White,W
 5603,Wholesale trade,White,W
@@ -978,14 +978,14 @@
 5612,Wholesale trade,Black or African American,U
 5613,Wholesale trade,Black or African American,T
 5614,Wholesale trade,Black or African American,U
-5648,Wholesale trade,Black or African American,T
-5649,Wholesale trade,Black or African American,W
+5649,Wholesale trade,Black or African American,T
+5650,Wholesale trade,Black or African American,W
 5652,Wholesale trade,Black or African American,W
 5653,Wholesale trade,American Indian and Alaska Native,U
 5654,Wholesale trade,American Indian and Alaska Native,L
 5655,Wholesale trade,American Indian and Alaska Native,R
 5660,Wholesale trade,American Indian and Alaska Native,T
-5671,Wholesale trade,Black or African American,W
+5669,Wholesale trade,Black or African American,W
 5672,Wholesale trade,Black or African American,R
 5673,Wholesale trade,Black or African American,T
 5674,Wholesale trade,Black or African American,T
@@ -1003,7 +1003,7 @@
 5717,Wholesale trade,Asian,W
 5718,Wholesale trade,Asian,W
 5719,Wholesale trade,Asian,W
-5722,Wholesale trade,Asian,W
+5720,Wholesale trade,Asian,W
 5723,Wholesale trade,Black or African American,T
 5724,Wholesale trade,Black or African American,W
 5726,Wholesale trade,American Indian and Alaska Native,U
@@ -1023,8 +1023,8 @@
 5827,Wholesale trade,American Indian and Alaska Native,R
 5832,Wholesale trade,American Indian and Alaska Native,T
 5834,Wholesale trade,American Indian and Alaska Native,R
-5855,Wholesale trade,White,W
-5856,Wholesale trade,White,R
+5853,Wholesale trade,White,R
+5856,Wholesale trade,White,W
 5857,Wholesale trade,White,W
 5858,Wholesale trade,White,U
 5859,Wholesale trade,White,W
@@ -1043,9 +1043,9 @@
 5875,Manufacturing,Asian,W
 5876,Manufacturing,Asian,W
 5879,Wholesale trade,American Indian and Alaska Native,I
-5884,Wholesale trade,American Indian and Alaska Native,U
-5885,Wholesale trade,American Indian and Alaska Native,L
-5886,Wholesale trade,American Indian and Alaska Native,R
+5885,Wholesale trade,American Indian and Alaska Native,U
+5886,Wholesale trade,American Indian and Alaska Native,L
+5887,Wholesale trade,American Indian and Alaska Native,R
 5891,Wholesale trade,American Indian and Alaska Native,T
 5903,Wholesale trade,White,W
 5904,Wholesale trade,White,W
@@ -1061,7 +1061,7 @@
 5936,Wholesale trade,Asian,W
 5937,Wholesale trade,Asian,W
 5940,Wholesale trade,Asian,W
-5990,Wholesale trade,Asian,W
+5991,Wholesale trade,Asian,W
 5992,Wholesale trade,Asian,W
 5993,Wholesale trade,Asian,U
 5994,Wholesale trade,Asian,U
@@ -1111,10 +1111,10 @@
 6084,Retail trade,White,U
 6085,Retail trade,White,U
 6087,Retail trade,White,R
-6102,Retail trade,White,W
+6102,Retail trade,White,U
 6103,Retail trade,White,W
 6104,Retail trade,White,W
-6105,Retail trade,White,U
+6105,Retail trade,White,W
 6106,Retail trade,White,W
 6107,Retail trade,White,W
 6108,Retail trade,White,U
@@ -1159,8 +1159,8 @@
 6236,Retail trade,Black or African American,U
 6237,Retail trade,Black or African American,M
 6243,Retail trade,Black or African American,W
-6245,Retail trade,Black or African American,U
 6246,Retail trade,Black or African American,U
+6247,Retail trade,Black or African American,U
 6291,Retail trade,Black or African American,U
 6294,Retail trade,Black or African American,T
 6295,Retail trade,Black or African American,M
@@ -1198,10 +1198,10 @@
 6442,Retail trade,American Indian and Alaska Native,R
 6445,Retail trade,Asian,R
 6449,Retail trade,Black or African American,W
-6450,Retail trade,Black or African American,T
-6451,Retail trade,American Indian and Alaska Native,U
-6452,Retail trade,American Indian and Alaska Native,O
-6453,Retail trade,American Indian and Alaska Native,T
+6450,Retail trade,American Indian and Alaska Native,T
+6451,Retail trade,Black or African American,T
+6452,Retail trade,American Indian and Alaska Native,U
+6453,Retail trade,American Indian and Alaska Native,O
 6454,Retail trade,American Indian and Alaska Native,U
 6457,Retail trade,American Indian and Alaska Native,R
 6458,Retail trade,American Indian and Alaska Native,R
@@ -1244,8 +1244,8 @@
 6697,Retail trade,Asian,W
 6698,Retail trade,Asian,W
 6699,Retail trade,Asian,W
-6702,Retail trade,Asian,U
-6703,Retail trade,Asian,W
+6700,Retail trade,Asian,W
+6703,Retail trade,Asian,U
 6749,Retail trade,Asian,W
 6750,Retail trade,Asian,T
 6751,Retail trade,Asian,W
@@ -1253,7 +1253,7 @@
 6753,Retail trade,Asian,U
 6754,Retail trade,Asian,U
 6755,Retail trade,Asian,R
-6758,Retail trade,Asian,K
+6759,Retail trade,Asian,K
 6762,Retail trade,White,W
 6763,Retail trade,White,W
 6764,Retail trade,White,W
@@ -1273,18 +1273,18 @@
 6817,Retail trade,White,W
 6818,Retail trade,White,W
 6820,Retail trade,White,W
-6834,Retail trade,White,W
-6835,Retail trade,White,U
-6836,Retail trade,White,W
+6833,Retail trade,White,W
+6835,Retail trade,White,W
+6836,Retail trade,White,U
 6837,Retail trade,White,W
 6838,Retail trade,White,W
 6839,Retail trade,White,W
 6843,Retail trade,White,U
 6855,Transportation and warehousing,White,U
 6857,Transportation and warehousing,White,R
-6859,Transportation and warehousing,White,U
-6860,Transportation and warehousing,White,W
-6861,Transportation and warehousing,White,U
+6860,Transportation and warehousing,White,U
+6861,Transportation and warehousing,White,W
+6862,Transportation and warehousing,White,U
 6863,Transportation and warehousing,White,M
 6864,Transportation and warehousing,White,R
 6871,Transportation and warehousing,Asian,K
@@ -1303,8 +1303,8 @@
 6913,Transportation and warehousing,White,W
 6914,Transportation and warehousing,White,W
 6915,Transportation and warehousing,White,W
-6916,Transportation and warehousing,White,W
-6917,Transportation and warehousing,Asian,U
+6917,Transportation and warehousing,White,W
+6918,Transportation and warehousing,Asian,U
 6922,Transportation and warehousing,Asian,T
 6923,Transportation and warehousing,Asian,U
 6924,Transportation and warehousing,Asian,W
@@ -1322,9 +1322,9 @@
 6970,Transportation and warehousing,Black or African American,M
 6971,Transportation and warehousing,Black or African American,T
 7005,Transportation and warehousing,Black or African American,U
-7006,Transportation and warehousing,Black or African American,L
-7007,Transportation and warehousing,Black or African American,R
-7008,Transportation and warehousing,Black or African American,O
+7007,Transportation and warehousing,Black or African American,L
+7008,Transportation and warehousing,Black or African American,R
+7009,Transportation and warehousing,Black or African American,O
 7011,Transportation and warehousing,Black or African American,L
 7012,Transportation and warehousing,Black or African American,O
 7014,Transportation and warehousing,Black or African American,R
@@ -1371,8 +1371,8 @@
 7212,Retail trade,White,W
 7213,Retail trade,Black or African American,W
 7215,Retail trade,Black or African American,U
-7216,Retail trade,Black or African American,U
 7217,Retail trade,Black or African American,U
+7218,Retail trade,Black or African American,U
 7220,Retail trade,Black or African American,U
 7232,Transportation and warehousing,Black or African American,U
 7233,Transportation and warehousing,Black or African American,U
@@ -1400,7 +1400,7 @@
 7285,Transportation and warehousing,American Indian and Alaska Native,L
 7286,Transportation and warehousing,American Indian and Alaska Native,L
 7287,Transportation and warehousing,American Indian and Alaska Native,K
-7288,Transportation and warehousing,American Indian and Alaska Native,O
+7289,Transportation and warehousing,American Indian and Alaska Native,O
 7293,Transportation and warehousing,American Indian and Alaska Native,T
 7298,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,R
 7311,Retail trade,American Indian and Alaska Native,U
@@ -1436,7 +1436,7 @@
 7434,Transportation and warehousing,White,W
 7435,Transportation and warehousing,White,W
 7436,Transportation and warehousing,American Indian and Alaska Native,U
-7440,Transportation and warehousing,American Indian and Alaska Native,O
+7437,Transportation and warehousing,American Indian and Alaska Native,O
 7441,Transportation and warehousing,American Indian and Alaska Native,R
 7442,Transportation and warehousing,American Indian and Alaska Native,O
 7443,Transportation and warehousing,American Indian and Alaska Native,R
@@ -1444,8 +1444,8 @@
 7447,Transportation and warehousing,American Indian and Alaska Native,T
 7472,Transportation and warehousing,White,W
 7473,Transportation and warehousing,White,U
-7474,Transportation and warehousing,White,W
-7475,Transportation and warehousing,White,U
+7474,Transportation and warehousing,White,U
+7475,Transportation and warehousing,White,W
 7476,Transportation and warehousing,White,U
 7477,Transportation and warehousing,White,W
 7478,Transportation and warehousing,White,U
@@ -1463,8 +1463,8 @@
 7496,Transportation and warehousing,Asian,O
 7499,Retail trade,White,W
 7500,Retail trade,White,W
-7503,Retail trade,White,W
-7505,Retail trade,Black or African American,B
+7504,Retail trade,White,W
+7506,Retail trade,Black or African American,B
 7520,Transportation and warehousing,White,W
 7521,Transportation and warehousing,White,W
 7522,Transportation and warehousing,White,W
@@ -1481,15 +1481,15 @@
 7536,Transportation and warehousing,Asian,W
 7537,Transportation and warehousing,Asian,R
 7538,Transportation and warehousing,Asian,U
-7539,Transportation and warehousing,Asian,U
 7540,Transportation and warehousing,Asian,U
+7541,Transportation and warehousing,Asian,U
 7545,Transportation and warehousing,Asian,T
 7549,Retail trade,Asian,R
 7550,Retail trade,Asian,K
 7551,Retail trade,Asian,R
 7553,Retail trade,Asian,R
 7555,Retail trade,Asian,R
-7576,Transportation and warehousing,White,W
+7573,Transportation and warehousing,White,W
 7577,Transportation and warehousing,White,U
 7578,Transportation and warehousing,White,W
 7579,Transportation and warehousing,White,W
@@ -1516,18 +1516,18 @@
 7708,Transportation and warehousing,Black or African American,T
 7709,Transportation and warehousing,Black or African American,U
 7710,Transportation and warehousing,Black or African American,U
-7711,Transportation and warehousing,Black or African American,R
-7712,Transportation and warehousing,Black or African American,T
-7714,Transportation and warehousing,Black or African American,W
+7711,Transportation and warehousing,Black or African American,W
+7712,Transportation and warehousing,Black or African American,R
+7713,Transportation and warehousing,Black or African American,T
 7725,Transportation and warehousing,White,W
 7726,Transportation and warehousing,White,U
 7729,Transportation and warehousing,White,W
 7738,Transportation and warehousing,American Indian and Alaska Native,I
 7753,Transportation and warehousing,American Indian and Alaska Native,U
 7755,Transportation and warehousing,American Indian and Alaska Native,R
-7757,Transportation and warehousing,American Indian and Alaska Native,O
-7758,Transportation and warehousing,American Indian and Alaska Native,R
-7759,Transportation and warehousing,American Indian and Alaska Native,O
+7756,Transportation and warehousing,American Indian and Alaska Native,O
+7758,Transportation and warehousing,American Indian and Alaska Native,O
+7759,Transportation and warehousing,American Indian and Alaska Native,R
 7760,Transportation and warehousing,American Indian and Alaska Native,O
 7763,Transportation and warehousing,American Indian and Alaska Native,R
 7764,Transportation and warehousing,American Indian and Alaska Native,T
@@ -1604,10 +1604,10 @@
 8032,Information,White,U
 8044,Transportation and warehousing,Black or African American,T
 8047,Transportation and warehousing,Black or African American,T
-8066,Information,White,U
-8067,Information,White,R
-8068,Information,White,T
-8069,Information,White,R
+8066,Information,White,R
+8067,Information,White,U
+8068,Information,White,R
+8069,Information,White,T
 8070,Information,White,T
 8073,Information,White,T
 8075,Information,White,R
@@ -1635,7 +1635,7 @@
 8134,Information,White,W
 8136,Information,White,W
 8152,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,M
-8153,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,M
+8154,Transportation and warehousing,Native Hawaiian and Other Pacific Islander,M
 8174,Information,White,W
 8175,Information,White,W
 8176,Information,White,W
@@ -1644,9 +1644,9 @@
 8179,Information,Black or African American,R
 8180,Information,Black or African American,O
 8181,Information,Black or African American,O
-8183,Information,Black or African American,O
-8184,Information,Black or African American,T
-8185,Information,Black or African American,R
+8182,Information,Black or African American,R
+8184,Information,Black or African American,O
+8185,Information,Black or African American,T
 8227,Information,Black or African American,U
 8230,Information,Black or African American,M
 8246,Transportation and warehousing,White,W
@@ -1658,9 +1658,9 @@
 8277,Information,Black or African American,R
 8278,Information,Black or African American,M
 8279,Information,Black or African American,M
-8280,Information,Black or African American,O
+8280,Information,Black or African American,R
 8281,Information,Black or African American,O
-8282,Information,Black or African American,R
+8282,Information,Black or African American,O
 8283,Information,Black or African American,R
 8285,Information,Black or African American,L
 8287,Transportation and warehousing,White,W
@@ -1680,7 +1680,7 @@
 8322,Information,Black or African American,K
 8323,Information,Black or African American,I
 8324,Information,Black or African American,K
-8326,Information,Black or African American,I
+8327,Information,Black or African American,I
 8372,Information,Black or African American,K
 8374,Information,Black or African American,L
 8375,Information,Black or African American,B
@@ -1689,8 +1689,8 @@
 8383,Information,Black or African American,O
 8384,Information,Black or African American,R
 8385,Information,Black or African American,O
-8386,Information,Black or African American,O
-8388,Information,Black or African American,O
+8387,Information,Black or African American,O
+8389,Information,Black or African American,O
 8402,Information,White,T
 8403,Information,White,U
 8406,Information,White,U
@@ -1704,10 +1704,10 @@
 8442,Information,American Indian and Alaska Native,L
 8443,Information,American Indian and Alaska Native,O
 8483,Information,American Indian and Alaska Native,O
-8484,Information,American Indian and Alaska Native,R
-8485,Information,American Indian and Alaska Native,B
-8486,Information,Asian,W
-8487,Information,Asian,T
+8484,Information,Asian,T
+8485,Information,American Indian and Alaska Native,R
+8486,Information,American Indian and Alaska Native,B
+8487,Information,Asian,W
 8488,Information,Asian,U
 8489,Information,Asian,U
 8490,Information,Asian,U
@@ -1725,8 +1725,8 @@
 8576,Information,Asian,U
 8577,Information,Asian,T
 8578,Information,Asian,T
-8579,Information,Asian,U
-8581,Information,Asian,T
+8579,Information,Asian,T
+8580,Information,Asian,U
 8582,Information,Asian,U
 8583,Information,Asian,U
 8584,Information,Asian,T
@@ -1734,12 +1734,12 @@
 8589,Information,Asian,L
 8590,Information,Asian,L
 8591,Information,Asian,M
-8636,Information,Asian,L
-8637,Information,Asian,I
+8637,Information,Asian,L
+8638,Information,Asian,I
 8642,Information,Asian,L
 8643,Information,Asian,W
 8644,Information,Asian,T
-8651,Information,White,W
+8648,Information,White,W
 8652,Information,White,R
 8653,Information,White,T
 8654,Information,White,T
@@ -1757,8 +1757,8 @@
 8693,Information,Asian,U
 8694,Information,Asian,W
 8695,Information,Asian,T
-8698,Information,Native Hawaiian and Other Pacific Islander,K
-8701,Information,Native Hawaiian and Other Pacific Islander,L
+8698,Information,Native Hawaiian and Other Pacific Islander,L
+8699,Information,Native Hawaiian and Other Pacific Islander,K
 8703,Information,White,M
 8704,Information,White,W
 8705,Information,White,L
@@ -1809,9 +1809,9 @@
 8940,Information,American Indian and Alaska Native,K
 8941,Information,American Indian and Alaska Native,L
 8980,Information,American Indian and Alaska Native,L
-8983,Information,American Indian and Alaska Native,O
-8984,Information,American Indian and Alaska Native,R
-8985,Information,American Indian and Alaska Native,B
+8983,Information,American Indian and Alaska Native,B
+8984,Information,American Indian and Alaska Native,O
+8985,Information,American Indian and Alaska Native,R
 8987,Information,American Indian and Alaska Native,R
 8988,Information,Asian,W
 8989,Information,Asian,T
@@ -1841,15 +1841,15 @@
 9101,Information,American Indian and Alaska Native,L
 9138,Information,American Indian and Alaska Native,O
 9139,Information,American Indian and Alaska Native,I
-9142,Information,American Indian and Alaska Native,K
+9143,Information,American Indian and Alaska Native,K
 9159,Information,White,U
 9160,Information,White,M
 9161,Information,White,R
 9162,Information,White,R
 9163,Information,White,R
-9165,Information,White,O
-9166,Information,White,R
-9167,Information,White,O
+9164,Information,White,O
+9166,Information,White,O
+9167,Information,White,R
 9182,Information,American Indian and Alaska Native,R
 9183,Information,American Indian and Alaska Native,K
 9184,Information,American Indian and Alaska Native,L
@@ -1892,7 +1892,7 @@
 9335,Finance and insurance,White,U
 9338,Finance and insurance,White,T
 9339,Finance and insurance,White,U
-9340,Finance and insurance,White,W
+9341,Finance and insurance,White,W
 9342,Finance and insurance,White,U
 9343,Finance and insurance,White,U
 9344,Finance and insurance,White,U
@@ -1912,8 +1912,8 @@
 9398,Finance and insurance,White,R
 9399,Finance and insurance,White,R
 9404,Finance and insurance,Native Hawaiian and Other Pacific Islander,B
-9414,Finance and insurance,White,W
-9416,Finance and insurance,White,U
+9414,Finance and insurance,White,U
+9415,Finance and insurance,White,W
 9417,Finance and insurance,White,U
 9418,Finance and insurance,White,U
 9419,Finance and insurance,White,U
@@ -1969,9 +1969,9 @@
 9661,Finance and insurance,Black or African American,T
 9666,Finance and insurance,Black or African American,R
 9667,Finance and insurance,Black or African American,U
-9670,Finance and insurance,Black or African American,U
-9671,Finance and insurance,American Indian and Alaska Native,T
-9673,Finance and insurance,American Indian and Alaska Native,R
+9670,Finance and insurance,American Indian and Alaska Native,R
+9671,Finance and insurance,Black or African American,U
+9672,Finance and insurance,American Indian and Alaska Native,T
 9679,Finance and insurance,Black or African American,U
 9680,Finance and insurance,Black or African American,O
 9681,Finance and insurance,Black or African American,U
@@ -1981,9 +1981,9 @@
 9726,Finance and insurance,Asian,U
 9727,Finance and insurance,Asian,U
 9728,Finance and insurance,Asian,U
-9731,Finance and insurance,Black or African American,T
-9732,Finance and insurance,Black or African American,U
-9733,Finance and insurance,Black or African American,R
+9731,Finance and insurance,Black or African American,R
+9732,Finance and insurance,Black or African American,T
+9733,Finance and insurance,Black or African American,U
 9734,Finance and insurance,American Indian and Alaska Native,T
 9736,Finance and insurance,American Indian and Alaska Native,R
 9754,Finance and insurance,Asian,R
@@ -2015,8 +2015,8 @@
 9908,Finance and insurance,White,W
 9910,Finance and insurance,White,W
 9911,Finance and insurance,American Indian and Alaska Native,M
-9914,Finance and insurance,Asian,W
-9915,Finance and insurance,Asian,U
+9913,Finance and insurance,Asian,U
+9915,Finance and insurance,Asian,W
 9916,Finance and insurance,Asian,U
 9917,Finance and insurance,Asian,U
 9922,Finance and insurance,Asian,R
@@ -2029,7 +2029,7 @@
 9953,Real estate and rental and leasing,White,T
 9957,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,K
 9958,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,I
-9960,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
+9961,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
 9967,Real estate and rental and leasing,White,W
 9968,Real estate and rental and leasing,White,T
 9969,Real estate and rental and leasing,White,U
@@ -2051,7 +2051,7 @@
 10004,Real estate and rental and leasing,White,W
 10007,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
 10008,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,K
-10013,Real estate and rental and leasing,White,W
+10011,Real estate and rental and leasing,White,W
 10014,Real estate and rental and leasing,Black or African American,R
 10016,Real estate and rental and leasing,Black or African American,O
 10020,Real estate and rental and leasing,Black or African American,R
@@ -2062,13 +2062,13 @@
 10037,Real estate and rental and leasing,White,W
 10038,Real estate and rental and leasing,White,W
 10039,Real estate and rental and leasing,Black or African American,U
-10040,Real estate and rental and leasing,Black or African American,R
-10041,Real estate and rental and leasing,Black or African American,T
+10041,Real estate and rental and leasing,Black or African American,R
+10042,Real estate and rental and leasing,Black or African American,T
 10046,Real estate and rental and leasing,Black or African American,M
 10048,Real estate and rental and leasing,Black or African American,T
 10049,Real estate and rental and leasing,Black or African American,L
 10050,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,K
-10051,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
+10052,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
 10066,Real estate and rental and leasing,Asian,R
 10082,Real estate and rental and leasing,Black or African American,R
 10086,Real estate and rental and leasing,Black or African American,U
@@ -2092,12 +2092,12 @@
 10291,Real estate and rental and leasing,American Indian and Alaska Native,K
 10293,Real estate and rental and leasing,American Indian and Alaska Native,I
 10334,Real estate and rental and leasing,American Indian and Alaska Native,I
-10374,Real estate and rental and leasing,American Indian and Alaska Native,R
-10375,Real estate and rental and leasing,American Indian and Alaska Native,L
-10376,Real estate and rental and leasing,American Indian and Alaska Native,O
-10400,Real estate and rental and leasing,White,W
-10401,Real estate and rental and leasing,White,T
-10402,Real estate and rental and leasing,White,U
+10375,Real estate and rental and leasing,American Indian and Alaska Native,R
+10376,Real estate and rental and leasing,American Indian and Alaska Native,L
+10377,Real estate and rental and leasing,American Indian and Alaska Native,O
+10400,Real estate and rental and leasing,White,U
+10401,Real estate and rental and leasing,White,W
+10402,Real estate and rental and leasing,White,T
 10403,Real estate and rental and leasing,White,U
 10404,Real estate and rental and leasing,White,U
 10406,Real estate and rental and leasing,White,L
@@ -2124,9 +2124,9 @@
 10500,Real estate and rental and leasing,White,W
 10501,Real estate and rental and leasing,White,W
 10502,Real estate and rental and leasing,White,W
-10503,Real estate and rental and leasing,White,W
 10504,Real estate and rental and leasing,White,W
 10505,Real estate and rental and leasing,White,W
+10506,Real estate and rental and leasing,White,W
 10507,Real estate and rental and leasing,White,W
 10508,Real estate and rental and leasing,White,W
 10509,Real estate and rental and leasing,White,W
@@ -2170,8 +2170,8 @@
 10645,Real estate and rental and leasing,White,U
 10649,Real estate and rental and leasing,White,K
 10652,Real estate and rental and leasing,White,O
-10665,Professional/Scientific/Technical Services,American Indian and Alaska Native,U
-10667,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
+10665,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
+10666,Professional/Scientific/Technical Services,American Indian and Alaska Native,U
 10668,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 10670,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 10671,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
@@ -2201,7 +2201,7 @@
 10784,Professional/Scientific/Technical Services,White,W
 10785,Professional/Scientific/Technical Services,White,W
 10786,Professional/Scientific/Technical Services,White,W
-10788,Professional/Scientific/Technical Services,American Indian and Alaska Native,U
+10789,Professional/Scientific/Technical Services,American Indian and Alaska Native,U
 10790,Professional/Scientific/Technical Services,American Indian and Alaska Native,T
 10791,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 10792,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
@@ -2319,9 +2319,9 @@
 11054,Real estate and rental and leasing,White,W
 11055,Real estate and rental and leasing,White,U
 11056,Real estate and rental and leasing,White,W
-11057,Real estate and rental and leasing,Black or African American,U
-11058,Real estate and rental and leasing,Black or African American,R
-11059,Real estate and rental and leasing,Black or African American,T
+11058,Real estate and rental and leasing,Black or African American,U
+11059,Real estate and rental and leasing,Black or African American,R
+11060,Real estate and rental and leasing,Black or African American,T
 11066,Professional/Scientific/Technical Services,Black or African American,U
 11067,Professional/Scientific/Technical Services,Black or African American,R
 11068,Professional/Scientific/Technical Services,Black or African American,U
@@ -2335,8 +2335,8 @@
 11078,Professional/Scientific/Technical Services,Asian,U
 11079,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,T
 11080,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
-11081,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,R
-11084,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
+11081,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
+11082,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,R
 11085,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
 11086,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
 11097,Real estate and rental and leasing,Black or African American,T
@@ -2365,16 +2365,16 @@
 11152,Real estate and rental and leasing,Asian,R
 11153,Real estate and rental and leasing,Asian,R
 11154,Professional/Scientific/Technical Services,Black or African American,T
-11156,Professional/Scientific/Technical Services,Black or African American,R
-11157,Professional/Scientific/Technical Services,Black or African American,O
-11159,Professional/Scientific/Technical Services,Black or African American,L
+11156,Professional/Scientific/Technical Services,Black or African American,L
+11157,Professional/Scientific/Technical Services,Black or African American,R
+11158,Professional/Scientific/Technical Services,Black or African American,O
 11162,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,T
 11166,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
 11167,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,M
 11168,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
 11169,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
-11182,Real estate and rental and leasing,Asian,U
-11183,Real estate and rental and leasing,Asian,W
+11183,Real estate and rental and leasing,Asian,U
+11184,Real estate and rental and leasing,Asian,W
 11186,Real estate and rental and leasing,Asian,W
 11187,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,L
 11188,Real estate and rental and leasing,Native Hawaiian and Other Pacific Islander,K
@@ -2400,8 +2400,8 @@
 11243,Professional/Scientific/Technical Services,Black or African American,T
 11244,Professional/Scientific/Technical Services,Black or African American,T
 11252,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,T
-11253,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
-11254,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,R
+11254,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
+11255,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,R
 11257,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,M
 11264,Professional/Scientific/Technical Services,White,W
 11265,Professional/Scientific/Technical Services,White,W
@@ -2429,17 +2429,17 @@
 11334,Professional/Scientific/Technical Services,American Indian and Alaska Native,M
 11335,Professional/Scientific/Technical Services,American Indian and Alaska Native,O
 11351,Professional/Scientific/Technical Services,Asian,M
-11352,Professional/Scientific/Technical Services,Asian,U
-11353,Professional/Scientific/Technical Services,Asian,K
-11354,Professional/Scientific/Technical Services,Asian,U
-11355,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
+11352,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
+11353,Professional/Scientific/Technical Services,Asian,U
+11354,Professional/Scientific/Technical Services,Asian,K
+11355,Professional/Scientific/Technical Services,Asian,U
 11358,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,I
 11359,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,I
 11361,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
 11393,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,L
 11394,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,M
 11395,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,O
-11673,Professional/Scientific/Technical Services,White,W
+11672,Professional/Scientific/Technical Services,White,W
 11674,Professional/Scientific/Technical Services,White,W
 11675,Professional/Scientific/Technical Services,White,W
 11676,Professional/Scientific/Technical Services,White,W
@@ -2460,10 +2460,10 @@
 11725,Professional/Scientific/Technical Services,Black or African American,U
 11726,Professional/Scientific/Technical Services,Black or African American,U
 11727,Professional/Scientific/Technical Services,Black or African American,U
-11728,Professional/Scientific/Technical Services,Black or African American,U
+11728,Professional/Scientific/Technical Services,Black or African American,R
 11729,Professional/Scientific/Technical Services,Black or African American,U
 11730,Professional/Scientific/Technical Services,Black or African American,U
-11731,Professional/Scientific/Technical Services,Black or African American,R
+11731,Professional/Scientific/Technical Services,Black or African American,U
 11732,Professional/Scientific/Technical Services,Black or African American,U
 11766,Professional/Scientific/Technical Services,Black or African American,U
 11767,Professional/Scientific/Technical Services,Black or African American,W
@@ -2477,8 +2477,8 @@
 11776,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 11777,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 11778,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
-11780,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
-11807,Professional/Scientific/Technical Services,White,W
+11781,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
+11804,Professional/Scientific/Technical Services,White,W
 11808,Professional/Scientific/Technical Services,White,T
 11809,Professional/Scientific/Technical Services,White,U
 11810,Professional/Scientific/Technical Services,White,U
@@ -2498,7 +2498,7 @@
 11859,Professional/Scientific/Technical Services,White,W
 11861,Professional/Scientific/Technical Services,White,R
 11862,Professional/Scientific/Technical Services,White,W
-11863,Professional/Scientific/Technical Services,Black or African American,L
+11864,Professional/Scientific/Technical Services,Black or African American,L
 11868,Professional/Scientific/Technical Services,Asian,W
 11869,Professional/Scientific/Technical Services,Asian,W
 11870,Professional/Scientific/Technical Services,Asian,W
@@ -2531,7 +2531,7 @@
 11946,Professional/Scientific/Technical Services,White,W
 11949,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,K
 11954,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,B
-11955,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,K
+11956,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,K
 11959,Professional/Scientific/Technical Services,Native Hawaiian and Other Pacific Islander,T
 11983,Professional/Scientific/Technical Services,White,U
 11984,Professional/Scientific/Technical Services,White,W
@@ -2554,7 +2554,7 @@
 12080,Professional/Scientific/Technical Services,American Indian and Alaska Native,R
 12081,Professional/Scientific/Technical Services,Asian,U
 12082,Professional/Scientific/Technical Services,Asian,M
-12083,Professional/Scientific/Technical Services,Asian,R
+12084,Professional/Scientific/Technical Services,Asian,R
 12087,Professional/Scientific/Technical Services,Asian,R
 12902,Administrative and support and waste management and remediation services,White,R
 12903,Administrative and support and waste management and remediation services,White,W
@@ -2576,8 +2576,8 @@
 12925,Administrative and support and waste management and remediation services,White,W
 12926,Administrative and support and waste management and remediation services,White,W
 12927,Administrative and support and waste management and remediation services,White,W
-12931,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
-12932,Administrative and support and waste management and remediation services,American Indian and Alaska Native,L
+12929,Administrative and support and waste management and remediation services,American Indian and Alaska Native,L
+12932,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
 12933,Administrative and support and waste management and remediation services,American Indian and Alaska Native,O
 12939,Administrative and support and waste management and remediation services,American Indian and Alaska Native,M
 12940,Administrative and support and waste management and remediation services,American Indian and Alaska Native,T
@@ -2591,16 +2591,16 @@
 12968,Administrative and support and waste management and remediation services,White,W
 12972,Administrative and support and waste management and remediation services,White,W
 12973,Administrative and support and waste management and remediation services,American Indian and Alaska Native,R
-12976,Administrative and support and waste management and remediation services,Asian,W
-12977,Administrative and support and waste management and remediation services,Asian,R
-12978,Administrative and support and waste management and remediation services,Asian,U
+12975,Administrative and support and waste management and remediation services,Asian,U
+12977,Administrative and support and waste management and remediation services,Asian,W
+12978,Administrative and support and waste management and remediation services,Asian,R
 12979,Administrative and support and waste management and remediation services,Asian,U
 12980,Administrative and support and waste management and remediation services,Asian,U
 12981,Administrative and support and waste management and remediation services,Asian,U
 12982,Administrative and support and waste management and remediation services,Asian,U
 12984,Administrative and support and waste management and remediation services,Asian,T
 12985,Administrative and support and waste management and remediation services,Asian,W
-12995,Administrative and support and waste management and remediation services,Asian,K
+12996,Administrative and support and waste management and remediation services,Asian,K
 13004,Administrative and support and waste management and remediation services,White,W
 13005,Administrative and support and waste management and remediation services,White,U
 13006,Administrative and support and waste management and remediation services,White,U
@@ -2622,8 +2622,8 @@
 13047,Administrative and support and waste management and remediation services,White,U
 13048,Administrative and support and waste management and remediation services,White,U
 13049,Administrative and support and waste management and remediation services,White,O
-13050,Administrative and support and waste management and remediation services,White,R
 13051,Administrative and support and waste management and remediation services,White,R
+13052,Administrative and support and waste management and remediation services,White,R
 13056,Administrative and support and waste management and remediation services,Asian,W
 13057,Administrative and support and waste management and remediation services,Asian,R
 13058,Administrative and support and waste management and remediation services,Asian,U
@@ -2632,7 +2632,7 @@
 13061,Administrative and support and waste management and remediation services,Asian,U
 13065,Administrative and support and waste management and remediation services,Asian,W
 13078,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,L
-13090,Administrative and support and waste management and remediation services,White,R
+13088,Administrative and support and waste management and remediation services,White,R
 13092,Administrative and support and waste management and remediation services,White,U
 13093,Administrative and support and waste management and remediation services,White,U
 13094,Administrative and support and waste management and remediation services,White,W
@@ -2653,8 +2653,8 @@
 13135,Administrative and support and waste management and remediation services,White,W
 13136,Administrative and support and waste management and remediation services,White,W
 13137,Administrative and support and waste management and remediation services,Black or African American,W
-13139,Administrative and support and waste management and remediation services,Asian,O
-13140,Administrative and support and waste management and remediation services,Asian,K
+13139,Administrative and support and waste management and remediation services,Asian,K
+13140,Administrative and support and waste management and remediation services,Asian,O
 13166,Administrative and support and waste management and remediation services,Black or African American,U
 13167,Administrative and support and waste management and remediation services,Black or African American,T
 13169,Administrative and support and waste management and remediation services,Black or African American,U
@@ -2696,9 +2696,9 @@
 13258,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,M
 13259,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,B
 13264,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,R
-13265,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
-13267,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,L
-13289,Administrative and support and waste management and remediation services,Black or African American,R
+13266,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
+13268,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,L
+13290,Administrative and support and waste management and remediation services,Black or African American,R
 13294,Administrative and support and waste management and remediation services,Black or African American,R
 13295,Administrative and support and waste management and remediation services,Black or African American,L
 13296,Administrative and support and waste management and remediation services,Black or African American,R
@@ -2717,9 +2717,9 @@
 13369,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,I
 13376,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,M
 13395,Administrative and support and waste management and remediation services,Black or African American,U
-13396,Administrative and support and waste management and remediation services,Black or African American,U
-13397,Administrative and support and waste management and remediation services,Black or African American,W
-13398,Administrative and support and waste management and remediation services,Black or African American,R
+13396,Administrative and support and waste management and remediation services,Black or African American,R
+13397,Administrative and support and waste management and remediation services,Black or African American,U
+13398,Administrative and support and waste management and remediation services,Black or African American,W
 13399,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
 13400,Administrative and support and waste management and remediation services,American Indian and Alaska Native,L
 13401,Administrative and support and waste management and remediation services,American Indian and Alaska Native,R
@@ -2763,12 +2763,12 @@
 13528,Administrative and support and waste management and remediation services,Black or African American,U
 13529,Administrative and support and waste management and remediation services,Black or African American,W
 13530,Administrative and support and waste management and remediation services,Black or African American,R
-13531,Administrative and support and waste management and remediation services,Black or African American,R
-13533,Administrative and support and waste management and remediation services,Black or African American,W
-13534,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
+13531,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
+13532,Administrative and support and waste management and remediation services,Black or African American,R
+13534,Administrative and support and waste management and remediation services,Black or African American,W
 13535,Administrative and support and waste management and remediation services,American Indian and Alaska Native,L
 13536,Administrative and support and waste management and remediation services,American Indian and Alaska Native,R
-13548,Educational services,Black or African American,R
+13549,Educational services,Black or African American,R
 13552,Educational services,American Indian and Alaska Native,I
 13557,Administrative and support and waste management and remediation services,Asian,U
 13558,Administrative and support and waste management and remediation services,Asian,U
@@ -2784,25 +2784,25 @@
 13570,Administrative and support and waste management and remediation services,White,W
 13573,Administrative and support and waste management and remediation services,White,W
 13574,Administrative and support and waste management and remediation services,Black or African American,M
-13575,Administrative and support and waste management and remediation services,Black or African American,I
+13576,Administrative and support and waste management and remediation services,Black or African American,I
 13579,Administrative and support and waste management and remediation services,American Indian and Alaska Native,L
 13580,Administrative and support and waste management and remediation services,American Indian and Alaska Native,T
 13581,Administrative and support and waste management and remediation services,American Indian and Alaska Native,R
-13585,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
-13586,Administrative and support and waste management and remediation services,Asian,W
-13587,Administrative and support and waste management and remediation services,Asian,R
+13584,Administrative and support and waste management and remediation services,Asian,R
+13586,Administrative and support and waste management and remediation services,American Indian and Alaska Native,U
+13587,Administrative and support and waste management and remediation services,Asian,W
 13590,Educational services,American Indian and Alaska Native,I
-13596,Administrative and support and waste management and remediation services,Asian,O
-13597,Administrative and support and waste management and remediation services,Asian,W
+13596,Administrative and support and waste management and remediation services,Asian,W
+13597,Administrative and support and waste management and remediation services,Asian,O
 13598,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,R
 13599,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
 13601,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
 13612,Administrative and support and waste management and remediation services,American Indian and Alaska Native,M
 13634,Educational services,American Indian and Alaska Native,I
 13640,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,M
-13641,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,O
-13643,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
-13644,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,R
+13641,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,R
+13642,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,O
+13644,Administrative and support and waste management and remediation services,Native Hawaiian and Other Pacific Islander,K
 13657,Administrative and support and waste management and remediation services,American Indian and Alaska Native,M
 13685,Educational services,Asian,W
 13686,Educational services,Asian,R
@@ -2856,15 +2856,15 @@
 13947,Educational services,White,R
 13948,Educational services,White,U
 13951,Educational services,Asian,U
-13954,Educational services,Native Hawaiian and Other Pacific Islander,I
+13955,Educational services,Native Hawaiian and Other Pacific Islander,I
 13960,Educational services,Native Hawaiian and Other Pacific Islander,B
 13964,Educational services,Native Hawaiian and Other Pacific Islander,I
 13989,Educational services,White,R
 13998,Educational services,White,T
 14049,Educational services,White,O
-14050,Educational services,White,W
-14052,Educational services,White,W
-14053,Educational services,White,U
+14050,Educational services,White,U
+14051,Educational services,White,W
+14053,Educational services,White,W
 14054,Educational services,White,U
 14055,Educational services,White,W
 14056,Educational services,White,W
@@ -2889,9 +2889,9 @@
 14179,Administrative and support and waste management and remediation services,White,W
 14180,Educational services,Black or African American,L
 14189,Educational services,Black or African American,I
-14206,Administrative and support and waste management and remediation services,White,W
-14207,Administrative and support and waste management and remediation services,White,R
-14208,Administrative and support and waste management and remediation services,White,U
+14206,Administrative and support and waste management and remediation services,White,U
+14207,Administrative and support and waste management and remediation services,White,W
+14208,Administrative and support and waste management and remediation services,White,R
 14209,Administrative and support and waste management and remediation services,White,U
 14210,Administrative and support and waste management and remediation services,White,U
 14211,Administrative and support and waste management and remediation services,White,U
@@ -2906,8 +2906,8 @@
 14222,Administrative and support and waste management and remediation services,Black or African American,W
 14224,Administrative and support and waste management and remediation services,Black or African American,U
 14225,Administrative and support and waste management and remediation services,Black or African American,R
-14227,Administrative and support and waste management and remediation services,Black or African American,U
-14229,Administrative and support and waste management and remediation services,Black or African American,R
+14226,Administrative and support and waste management and remediation services,Black or African American,R
+14228,Administrative and support and waste management and remediation services,Black or African American,U
 14231,Administrative and support and waste management and remediation services,Black or African American,U
 14233,Educational services,Black or African American,I
 14239,Educational services,Black or African American,T
@@ -2940,7 +2940,7 @@
 14379,Health care and social assistance,Asian,U
 14383,Educational services,White,U
 14384,Educational services,White,L
-14385,Educational services,White,R
+14386,Educational services,White,R
 14392,Educational services,White,T
 14396,Educational services,White,W
 14398,Educational services,White,W
@@ -2959,8 +2959,8 @@
 14424,Health care and social assistance,Asian,U
 14425,Health care and social assistance,Asian,U
 14426,Health care and social assistance,Asian,U
-14429,Health care and social assistance,Asian,M
-14430,Health care and social assistance,Asian,T
+14427,Health care and social assistance,Asian,T
+14430,Health care and social assistance,Asian,M
 14432,Educational services,White,U
 14435,Educational services,White,B
 14436,Educational services,White,U
@@ -2988,16 +2988,16 @@
 14511,Educational services,Asian,R
 14512,Educational services,Asian,R
 14513,Educational services,Asian,U
-14526,Health care and social assistance,Black or African American,T
-14528,Health care and social assistance,Black or African American,R
+14526,Health care and social assistance,Black or African American,R
+14527,Health care and social assistance,Black or African American,T
 14529,Health care and social assistance,Black or African American,M
-14548,Educational services,Asian,U
+14549,Educational services,Asian,U
 14551,Educational services,Asian,W
 14553,Educational services,Native Hawaiian and Other Pacific Islander,I
 14569,Health care and social assistance,Black or African American,R
 14570,Health care and social assistance,Black or African American,T
 14573,Health care and social assistance,Black or African American,B
-14578,Health care and social assistance,Black or African American,W
+14577,Health care and social assistance,Black or African American,W
 14579,Health care and social assistance,Black or African American,T
 14580,Health care and social assistance,Black or African American,U
 14581,Health care and social assistance,Black or African American,U
@@ -3031,8 +3031,8 @@
 14716,Health care and social assistance,White,W
 14717,Health care and social assistance,White,W
 14719,Health care and social assistance,White,W
-14720,Health care and social assistance,American Indian and Alaska Native,T
-14722,Health care and social assistance,American Indian and Alaska Native,R
+14720,Health care and social assistance,American Indian and Alaska Native,R
+14721,Health care and social assistance,American Indian and Alaska Native,T
 14750,Health care and social assistance,White,W
 14751,Health care and social assistance,White,W
 14752,Health care and social assistance,White,W
@@ -3069,8 +3069,8 @@
 14846,Health care and social assistance,White,U
 14847,Health care and social assistance,White,U
 14848,Health care and social assistance,White,U
-14849,Health care and social assistance,White,O
-14850,Health care and social assistance,White,U
+14849,Health care and social assistance,White,U
+14850,Health care and social assistance,White,O
 14851,Health care and social assistance,White,W
 14852,Health care and social assistance,White,W
 14853,Health care and social assistance,White,U
@@ -3095,8 +3095,8 @@
 14946,Health care and social assistance,White,W
 14947,Health care and social assistance,White,W
 14948,Health care and social assistance,Black or African American,W
-14949,Health care and social assistance,Black or African American,T
-14950,Health care and social assistance,Black or African American,U
+14949,Health care and social assistance,Black or African American,U
+14950,Health care and social assistance,Black or African American,T
 14951,Health care and social assistance,Black or African American,U
 14952,Health care and social assistance,Black or African American,U
 14953,Health care and social assistance,Black or African American,U
@@ -3138,16 +3138,16 @@
 15096,Health care and social assistance,Black or African American,W
 15097,Health care and social assistance,Black or African American,U
 15098,Health care and social assistance,Black or African American,T
-15100,Health care and social assistance,Black or African American,W
-15101,Health care and social assistance,American Indian and Alaska Native,U
-15103,Health care and social assistance,American Indian and Alaska Native,R
+15100,Health care and social assistance,American Indian and Alaska Native,R
+15101,Health care and social assistance,Black or African American,W
+15102,Health care and social assistance,American Indian and Alaska Native,U
 15118,Health care and social assistance,Asian,W
 15119,Health care and social assistance,Asian,W
 15120,Health care and social assistance,Asian,W
 15122,Health care and social assistance,Native Hawaiian and Other Pacific Islander,K
 15123,Health care and social assistance,Native Hawaiian and Other Pacific Islander,O
 15127,Health care and social assistance,Native Hawaiian and Other Pacific Islander,K
-15130,Health care and social assistance,Native Hawaiian and Other Pacific Islander,I
+15129,Health care and social assistance,Native Hawaiian and Other Pacific Islander,I
 15146,Health care and social assistance,American Indian and Alaska Native,T
 15147,Health care and social assistance,American Indian and Alaska Native,T
 15150,Health care and social assistance,American Indian and Alaska Native,T
@@ -3175,7 +3175,7 @@
 15206,Health care and social assistance,Asian,W
 15208,Health care and social assistance,Native Hawaiian and Other Pacific Islander,K
 15209,Health care and social assistance,Native Hawaiian and Other Pacific Islander,O
-15214,Health care and social assistance,White,W
+15211,Health care and social assistance,White,W
 15215,Health care and social assistance,White,T
 15216,Health care and social assistance,White,U
 15217,Health care and social assistance,White,W
@@ -3187,7 +3187,7 @@
 15231,Health care and social assistance,White,U
 15232,Health care and social assistance,White,U
 15234,Health care and social assistance,White,R
-15235,Health care and social assistance,White,W
+15236,Health care and social assistance,White,W
 15252,Health care and social assistance,White,T
 15253,Health care and social assistance,White,W
 15255,Health care and social assistance,White,U
@@ -3209,15 +3209,15 @@
 15335,Health care and social assistance,Asian,R
 15336,Health care and social assistance,Asian,R
 15347,Health care and social assistance,Native Hawaiian and Other Pacific Islander,K
-15361,Health care and social assistance,Asian,U
-15363,Health care and social assistance,Asian,R
+15360,Health care and social assistance,Asian,R
+15362,Health care and social assistance,Asian,U
 15364,Health care and social assistance,Asian,R
 15408,Health care and social assistance,Asian,U
 15409,Health care and social assistance,Asian,U
 15736,Health care and social assistance,Asian,T
 15737,Health care and social assistance,Asian,B
-15744,Health care and social assistance,Asian,R
-15745,Health care and social assistance,Asian,T
+15744,Health care and social assistance,Asian,T
+15745,Health care and social assistance,Asian,R
 15764,Health care and social assistance,White,W
 15765,Health care and social assistance,White,W
 15766,Health care and social assistance,White,W
@@ -3270,7 +3270,7 @@
 15974,Arts/Entertainment/Recreation,White,T
 15975,Arts/Entertainment/Recreation,White,T
 15977,Arts/Entertainment/Recreation,Asian,U
-15988,Arts/Entertainment/Recreation,White,W
+15985,Arts/Entertainment/Recreation,White,W
 15989,Arts/Entertainment/Recreation,White,R
 15990,Arts/Entertainment/Recreation,White,T
 15991,Arts/Entertainment/Recreation,White,R
@@ -3304,7 +3304,7 @@
 16119,Arts/Entertainment/Recreation,White,T
 16125,Arts/Entertainment/Recreation,White,R
 16127,Arts/Entertainment/Recreation,White,U
-16130,Arts/Entertainment/Recreation,White,M
+16131,Arts/Entertainment/Recreation,White,M
 16171,Arts/Entertainment/Recreation,White,R
 16172,Arts/Entertainment/Recreation,White,W
 16173,Arts/Entertainment/Recreation,White,W
@@ -3464,8 +3464,8 @@
 16721,Accommodation and food services,Asian,W
 16722,Accommodation and food services,Asian,U
 16724,Accommodation and food services,Asian,W
-16725,Accommodation and food services,Asian,W
-16726,Accommodation and food services,Asian,T
+16725,Accommodation and food services,Asian,T
+16726,Accommodation and food services,Asian,W
 16727,Accommodation and food services,Asian,U
 16728,Accommodation and food services,Asian,U
 16729,Accommodation and food services,Asian,W
@@ -3485,9 +3485,9 @@
 16767,Accommodation and food services,Asian,U
 16768,Accommodation and food services,Asian,T
 16769,Accommodation and food services,Asian,K
-16789,Accommodation and food services,Black or African American,U
-16790,Accommodation and food services,Black or African American,L
-16791,Accommodation and food services,Black or African American,R
+16789,Accommodation and food services,Black or African American,R
+16790,Accommodation and food services,Black or African American,U
+16791,Accommodation and food services,Black or African American,L
 16792,Accommodation and food services,Black or African American,R
 16794,Accommodation and food services,Black or African American,R
 16798,Accommodation and food services,Black or African American,R
@@ -3527,8 +3527,8 @@
 16947,Accommodation and food services,Black or African American,U
 16959,Accommodation and food services,Native Hawaiian and Other Pacific Islander,I
 16962,Accommodation and food services,Native Hawaiian and Other Pacific Islander,K
-16983,Accommodation and food services,Black or African American,U
-16984,Accommodation and food services,Black or African American,W
+16984,Accommodation and food services,Black or African American,U
+16985,Accommodation and food services,Black or African American,W
 16986,Accommodation and food services,American Indian and Alaska Native,U
 16987,Accommodation and food services,American Indian and Alaska Native,L
 16990,Accommodation and food services,American Indian and Alaska Native,R
@@ -3536,8 +3536,8 @@
 16995,Accommodation and food services,American Indian and Alaska Native,R
 17005,Accommodation and food services,Native Hawaiian and Other Pacific Islander,K
 17008,Accommodation and food services,Native Hawaiian and Other Pacific Islander,I
-17016,Accommodation and food services,White,W
-17017,Accommodation and food services,White,T
+17014,Accommodation and food services,White,T
+17017,Accommodation and food services,White,W
 17018,Accommodation and food services,White,T
 17019,Accommodation and food services,White,U
 17020,Accommodation and food services,White,U
@@ -3566,8 +3566,8 @@
 17168,Accommodation and food services,Asian,T
 17171,Accommodation and food services,Asian,T
 17178,Accommodation and food services,American Indian and Alaska Native,O
-17181,Accommodation and food services,American Indian and Alaska Native,U
-17182,Accommodation and food services,American Indian and Alaska Native,L
+17182,Accommodation and food services,American Indian and Alaska Native,U
+17183,Accommodation and food services,American Indian and Alaska Native,L
 17190,Accommodation and food services,American Indian and Alaska Native,R
 17271,Accommodation and food services,American Indian and Alaska Native,R
 17272,Accommodation and food services,American Indian and Alaska Native,T
@@ -3629,13 +3629,13 @@
 17520,Other services (except public administration),White,W
 17521,Other services (except public administration),White,W
 17522,Other services (except public administration),White,W
-17524,Other services (except public administration),White,W
+17523,Other services (except public administration),White,W
 17525,Other services (except public administration),White,W
 17526,Other services (except public administration),White,U
 17527,Other services (except public administration),White,W
 17528,Other services (except public administration),White,W
 17529,Other services (except public administration),American Indian and Alaska Native,R
-17531,Other services (except public administration),American Indian and Alaska Native,O
+17532,Other services (except public administration),American Indian and Alaska Native,O
 17560,Other services (except public administration),White,W
 17561,Other services (except public administration),White,W
 17562,Other services (except public administration),White,U
@@ -3658,7 +3658,7 @@
 17608,Other services (except public administration),White,W
 17609,Other services (except public administration),White,W
 17610,Other services (except public administration),White,W
-17614,Other services (except public administration),White,T
+17611,Other services (except public administration),White,T
 17615,Other services (except public administration),American Indian and Alaska Native,R
 17617,Other services (except public administration),American Indian and Alaska Native,R
 17624,Other services (except public administration),American Indian and Alaska Native,O
@@ -3671,8 +3671,8 @@
 17655,Other services (except public administration),White,R
 17657,Other services (except public administration),Asian,W
 17658,Other services (except public administration),Asian,T
-17659,Other services (except public administration),Asian,W
-17660,Other services (except public administration),Asian,U
+17659,Other services (except public administration),Asian,U
+17660,Other services (except public administration),Asian,W
 17661,Other services (except public administration),Asian,U
 17662,Other services (except public administration),Asian,U
 17667,Other services (except public administration),Asian,W
@@ -3704,10 +3704,10 @@
 17753,Other services (except public administration),White,W
 17755,Other services (except public administration),Asian,R
 17756,Other services (except public administration),Asian,U
-17757,Other services (except public administration),Asian,R
-17758,Other services (except public administration),Asian,U
+17757,Other services (except public administration),Asian,T
+17758,Other services (except public administration),Asian,R
 17759,Other services (except public administration),Asian,U
-17760,Other services (except public administration),Asian,T
+17760,Other services (except public administration),Asian,U
 17791,Other services (except public administration),White,W
 17792,Other services (except public administration),White,W
 17793,Other services (except public administration),White,W
@@ -3735,7 +3735,7 @@
 17902,Accommodation and food services,White,W
 17903,Accommodation and food services,White,W
 17912,Other services (except public administration),Black or African American,O
-17917,Other services (except public administration),Black or African American,O
+17918,Other services (except public administration),Black or African American,O
 17919,Other services (except public administration),Black or African American,O
 17932,Accommodation and food services,White,W
 17933,Accommodation and food services,White,W
@@ -3747,9 +3747,9 @@
 17939,Accommodation and food services,Black or African American,O
 17940,Accommodation and food services,Black or African American,T
 17941,Accommodation and food services,Black or African American,R
-17942,Accommodation and food services,Black or African American,T
-17943,Accommodation and food services,Black or African American,U
+17943,Accommodation and food services,Black or African American,T
 17944,Accommodation and food services,Black or African American,U
+17945,Accommodation and food services,Black or African American,U
 17959,Other services (except public administration),Black or African American,M
 17961,Other services (except public administration),Black or African American,U
 17962,Other services (except public administration),Black or African American,O
@@ -3769,7 +3769,7 @@
 18013,Other services (except public administration),White,R
 18015,Other services (except public administration),White,W
 18017,Other services (except public administration),Black or African American,K
-18018,Other services (except public administration),Black or African American,R
+18019,Other services (except public administration),Black or African American,R
 18039,Other services (except public administration),White,W
 18040,Other services (except public administration),White,R
 18041,Other services (except public administration),White,U
@@ -3779,9 +3779,9 @@
 18047,Other services (except public administration),White,O
 18071,Other services (except public administration),Asian,I
 18072,Other services (except public administration),Asian,O
-18409,Other services (except public administration),White,W
-18410,Other services (except public administration),White,R
-18411,Other services (except public administration),White,U
+18408,Other services (except public administration),White,U
+18410,Other services (except public administration),White,W
+18411,Other services (except public administration),White,R
 18412,Other services (except public administration),White,U
 18413,Other services (except public administration),White,U
 18414,Other services (except public administration),White,U
@@ -3798,7 +3798,7 @@
 18454,Other services (except public administration),White,U
 18455,Other services (except public administration),White,W
 18457,Other services (except public administration),White,W
-18475,Other services (except public administration),White,W
+18474,Other services (except public administration),White,W
 18476,Other services (except public administration),White,W
 18477,Other services (except public administration),White,W
 18478,Other services (except public administration),White,U
@@ -3813,7 +3813,7 @@
 18520,Other services (except public administration),Black or African American,O
 18521,Other services (except public administration),Black or African American,U
 18522,Other services (except public administration),American Indian and Alaska Native,R
-18524,Other services (except public administration),American Indian and Alaska Native,O
+18525,Other services (except public administration),American Indian and Alaska Native,O
 18548,Other services (except public administration),Asian,I
 18571,Other services (except public administration),American Indian and Alaska Native,R
 18572,Other services (except public administration),American Indian and Alaska Native,R
@@ -3841,23 +3841,23 @@
 18635,Industries not classified,White,O
 18639,Other services (except public administration),Native Hawaiian and Other Pacific Islander,I
 18640,Other services (except public administration),Native Hawaiian and Other Pacific Islander,L
-18663,Industries not classified,White,T
-18664,Industries not classified,White,O
-18665,Industries not classified,White,R
-18666,Industries not classified,White,O
+18663,Industries not classified,White,O
+18664,Industries not classified,White,T
+18665,Industries not classified,White,O
+18666,Industries not classified,White,R
 18671,Industries not classified,White,O
 18672,Industries not classified,White,U
 18673,Industries not classified,White,U
 18674,Industries not classified,White,U
 18675,Industries not classified,White,R
-18685,Industries not classified,White,M
-18686,Industries not classified,White,R
-18687,Industries not classified,White,I
+18685,Industries not classified,White,I
+18686,Industries not classified,White,M
+18687,Industries not classified,White,R
 18688,Industries not classified,White,R
 18690,Industries not classified,Black or African American,B
-18696,Industries not classified,White,U
-18697,Industries not classified,White,T
-18698,Industries not classified,White,R
+18696,Industries not classified,White,R
+18697,Industries not classified,White,U
+18698,Industries not classified,White,T
 18699,Industries not classified,White,R
 18700,Industries not classified,White,O
 18701,Industries not classified,White,L
@@ -3877,7 +3877,7 @@
 18766,Industries not classified,Black or African American,K
 18770,Industries not classified,Black or African American,B
 18790,Industries not classified,Black or African American,K
-18791,Industries not classified,Black or African American,I
+18792,Industries not classified,Black or African American,I
 18795,Industries not classified,Black or African American,I
 18797,Industries not classified,Black or African American,L
 18798,Industries not classified,Black or African American,K
@@ -3885,9 +3885,9 @@
 18800,Industries not classified,Black or African American,I
 18828,Industries not classified,Black or African American,K
 18829,Industries not classified,Black or African American,L
-18831,Industries not classified,American Indian and Alaska Native,M
-18832,Industries not classified,American Indian and Alaska Native,L
+18832,Industries not classified,American Indian and Alaska Native,M
 18833,Industries not classified,American Indian and Alaska Native,L
+18834,Industries not classified,American Indian and Alaska Native,L
 18859,Industries not classified,American Indian and Alaska Native,I
 18862,Industries not classified,American Indian and Alaska Native,L
 18863,Industries not classified,American Indian and Alaska Native,K
@@ -3942,8 +3942,8 @@
 18983,Industries not classified,Black or African American,K
 18984,Industries not classified,Black or African American,L
 18985,Industries not classified,Black or African American,I
-18988,Industries not classified,Black or African American,K
-18989,Industries not classified,Black or African American,L
+18988,Industries not classified,Black or African American,L
+18989,Industries not classified,Black or African American,K
 18992,Industries not classified,Asian,L
 18993,Industries not classified,Asian,I
 18994,Industries not classified,Asian,K
@@ -3953,9 +3953,9 @@
 19000,Industries not classified,Asian,I
 19006,Industries not classified,Asian,I
 19013,Industries not classified,Black or African American,K
-19014,Industries not classified,Black or African American,L
-19015,Industries not classified,American Indian and Alaska Native,L
-19016,Industries not classified,American Indian and Alaska Native,K
+19015,Industries not classified,Black or African American,L
+19016,Industries not classified,American Indian and Alaska Native,L
+19017,Industries not classified,American Indian and Alaska Native,K
 19020,Industries not classified,American Indian and Alaska Native,I
 19021,Industries not classified,American Indian and Alaska Native,L
 19023,Industries not classified,American Indian and Alaska Native,L
@@ -3964,8 +3964,8 @@
 19026,Industries not classified,Asian,M
 19027,Industries not classified,Asian,L
 19028,Industries not classified,Asian,L
-19029,Industries not classified,Asian,I
-19030,Industries not classified,Asian,B
+19029,Industries not classified,Asian,B
+19030,Industries not classified,Asian,I
 19031,Industries not classified,Asian,B
 19032,Industries not classified,Asian,I
 19033,Industries not classified,Asian,R
@@ -4021,8 +4021,8 @@
 19265,Mining/Quarrying/Oil&Gas Extraction,White,R
 19266,Mining/Quarrying/Oil&Gas Extraction,White,R
 19268,Mining/Quarrying/Oil&Gas Extraction,White,T
-19331,Utilities,White,T
-19332,Utilities,White,W
+19332,Utilities,White,T
+19333,Utilities,White,W
 19334,Utilities,Black or African American,K
 19335,Utilities,Black or African American,I
 19338,Utilities,Black or African American,K
