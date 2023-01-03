@@ -1,4 +1,4 @@
-# asmt-8: Visualizing the 2019 Annual Business Survey using Census API Data
+Visualizing the 2019 Annual Business Survey using Census API Data
 ## Overview
 Our repo is organized as follows:
 - Visualizations and the code used to create them are stored in the [viz.ipynb](https://github.com/CMatador/asmt-8/blob/master/viz.ipynb) file
@@ -24,6 +24,10 @@ Our goal was for our team to demonstrate our proficiency in API usage, data extr
 - How are owner demographics distributed? And how does the distribution of these demographics affect revenue?
 
 ## Data Processing
+- We gathered our data from the 2019 Annual Business Survey through their API.
+- Created functions to clean the API response texts and convert them into DataFrames.
+- We then selected relevant columns and to export to csv files for analysis and visualization.
+- Full process detailed here: [ETL](https://github.com/CMatador/asmt-8/blob/master/etl.ipynb)
 
 ## Results
 <!-- Maybe we can add our report to the repo and link to it here with like one sentence + graph for highlights? -->
