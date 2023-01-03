@@ -30,6 +30,13 @@ Our goal was for our team to demonstrate our proficiency in API usage, data extr
 - Full process detailed here: [ETL](https://github.com/CMatador/asmt-8/blob/master/etl.ipynb)
 
 ## Results
-<!-- Maybe we can add our report to the repo and link to it here with like one sentence + graph for highlights? -->
+There are 4 topics explored through data analysis and visualization:
+
+  1. Business/Employee Characteristics
+  2. Revenue
+  3. Business Owner Demographics
+  4. Technology Usage
+  
+A general overview of our results follow. Business owners are predominantly white males in older age groups. Companies owned by white individuals have much, much higher revenues than minority-owned businesses. Cloud services and specialized software are the most popular technologies adopted by companies. 
 
 ## Conclusions and Next Steps
