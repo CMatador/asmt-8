@@ -29,3 +29,8 @@ Our goal was for our team to demonstrate our proficiency in API usage, data extr
 <!-- Maybe we can add our report to the repo and link to it here with like one sentence + graph for highlights? -->
 
 ## Conclusions and Next Steps
+A very basic summation of our Conclusions (which can be read in more depth in our report):
+- Cloud services and specialized software are widely popular, while artificial intelligence and robotics are not yet
+- Technology in business tends to be an overall boost to jobs and skills of workers
+- Business owners are predominantly white males in older age groups
+- Asian-owned companies are the only minority-owned companies that can remotely come close to the revenues of white-owned companies, but there is still a big gap
