@@ -39,4 +39,4 @@ There are 4 topics explored through data analysis and visualization:
   
 A general overview of our results follow. Business owners are predominantly white males in older age groups. Companies owned by white individuals have much, much higher revenues than minority-owned businesses. Cloud services and specialized software are the most popular technologies adopted by companies.
 
-The full report can be found here: [Report](https://github.com/CMatador/asmt-8/blob/master/Census-API-Report.pdf)
+Greater focus on our results can be found in our report: [Report](https://github.com/CMatador/asmt-8/blob/master/Census-API-Report.pdf)
