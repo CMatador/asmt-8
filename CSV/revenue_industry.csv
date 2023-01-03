@@ -3850,14 +3850,14 @@
 18673,Industries not classified,White,U
 18674,Industries not classified,White,U
 18675,Industries not classified,White,R
-18685,Industries not classified,White,I
-18686,Industries not classified,White,M
-18687,Industries not classified,White,R
+18685,Industries not classified,White,M
+18686,Industries not classified,White,R
+18687,Industries not classified,White,I
 18688,Industries not classified,White,R
 18690,Industries not classified,Black or African American,B
-18696,Industries not classified,White,R
-18697,Industries not classified,White,U
-18698,Industries not classified,White,T
+18696,Industries not classified,White,U
+18697,Industries not classified,White,T
+18698,Industries not classified,White,R
 18699,Industries not classified,White,R
 18700,Industries not classified,White,O
 18701,Industries not classified,White,L
@@ -3877,7 +3877,7 @@
 18766,Industries not classified,Black or African American,K
 18770,Industries not classified,Black or African American,B
 18790,Industries not classified,Black or African American,K
-18792,Industries not classified,Black or African American,I
+18791,Industries not classified,Black or African American,I
 18795,Industries not classified,Black or African American,I
 18797,Industries not classified,Black or African American,L
 18798,Industries not classified,Black or African American,K
@@ -3942,8 +3942,8 @@
 18983,Industries not classified,Black or African American,K
 18984,Industries not classified,Black or African American,L
 18985,Industries not classified,Black or African American,I
-18988,Industries not classified,Black or African American,L
-18989,Industries not classified,Black or African American,K
+18988,Industries not classified,Black or African American,K
+18989,Industries not classified,Black or African American,L
 18992,Industries not classified,Asian,L
 18993,Industries not classified,Asian,I
 18994,Industries not classified,Asian,K
@@ -3953,9 +3953,9 @@
 19000,Industries not classified,Asian,I
 19006,Industries not classified,Asian,I
 19013,Industries not classified,Black or African American,K
-19015,Industries not classified,Black or African American,L
-19016,Industries not classified,American Indian and Alaska Native,L
-19017,Industries not classified,American Indian and Alaska Native,K
+19014,Industries not classified,Black or African American,L
+19015,Industries not classified,American Indian and Alaska Native,L
+19016,Industries not classified,American Indian and Alaska Native,K
 19020,Industries not classified,American Indian and Alaska Native,I
 19021,Industries not classified,American Indian and Alaska Native,L
 19023,Industries not classified,American Indian and Alaska Native,L
@@ -3964,8 +3964,8 @@
 19026,Industries not classified,Asian,M
 19027,Industries not classified,Asian,L
 19028,Industries not classified,Asian,L
-19029,Industries not classified,Asian,B
-19030,Industries not classified,Asian,I
+19029,Industries not classified,Asian,I
+19030,Industries not classified,Asian,B
 19031,Industries not classified,Asian,B
 19032,Industries not classified,Asian,I
 19033,Industries not classified,Asian,R
