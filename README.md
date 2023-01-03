@@ -1,4 +1,4 @@
-Visualizing the 2019 Annual Business Survey using Census API Data
+# Visualizing the 2019 Annual Business Survey using Census API Data
 ## Overview
 Our repo is organized as follows:
 - Visualizations and the code used to create them are stored in the [viz.ipynb](https://github.com/CMatador/asmt-8/blob/master/viz.ipynb) file
