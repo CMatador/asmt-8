@@ -4,6 +4,7 @@ Our repo is organized as follows:
 - Visualizations and the code used to create them are stored in the [viz.ipynb](https://github.com/CMatador/asmt-8/blob/master/viz.ipynb) file
 - Our code for data extraction, transformation, and loading is stored in the [etl.ipynb](https://github.com/CMatador/asmt-8/blob/master/etl.ipynb) file
 - Our extracted and cleaned data, which we use for the visualizations, are stored in CSV format in the [CSV](https://github.com/CMatador/asmt-8/tree/master/CSV) file
+- Our [Report](https://github.com/CMatador/asmt-8/blob/master/Census-API-Report.pdf) covering our analysis and findings, along with a [Presentation](https://github.com/CMatador/asmt-8/blob/master/Presentation.pdf).
 
 ## Data Summary
 From the ABS [Website](https://www.census.gov/data/developers/data-sets/abs.2019.html): 
